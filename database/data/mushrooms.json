@@ -1,0 +1,1772 @@
+[
+  {
+    "name": "Fly Agaric",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Amanita_muscaria_Aberystwyth_2023.jpg/500px-Amanita_muscaria_Aberystwyth_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amanita_muscaria",
+    "genus_name": "Amanita",
+    "specific_name": "muscaria",
+    "book_name": "Amanita muscaria",
+    "edibility": "p",
+    "edibility_notes": "Rarely fatal. Hallucinogenic properties."
+  },
+  {
+    "name": "Panther Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Amanita_pantherina_2013_G1.jpg/500px-Amanita_pantherina_2013_G1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amanita_pantherina",
+    "genus_name": "Amanita",
+    "specific_name": "pantherina",
+    "book_name": "Amanita pantherina",
+    "edibility": "p",
+    "edibility_notes": "Can be fatal if consumed."
+  },
+  {
+    "name": "False Panther Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Western_panther_amanita_3.jpg/500px-Western_panther_amanita_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amanita_pantherinoides",
+    "genus_name": "Amanita",
+    "specific_name": "pantherinoides",
+    "book_name": "Amanita pantherinoides",
+    "edibility": "p",
+    "edibility_notes": "Can be fatal if consumed."
+  },
+  {
+    "name": "The Blusher",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Amanita_rubescens.JPG/500px-Amanita_rubescens.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Blusher",
+    "genus_name": "Amanita",
+    "specific_name": "rubescens",
+    "book_name": "Amanita rubescens",
+    "edibility": "e",
+    "edibility_notes": "Must be well cooked. Causes anaemia if eaten raw."
+  },
+  {
+    "name": "Death Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_phalloides_1.JPG/500px-Amanita_phalloides_1.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amanita_phalloides",
+    "genus_name": "Amanita",
+    "specific_name": "phalloides",
+    "book_name": "Amanita phalloides",
+    "edibility": "p",
+    "edibility_notes": "Causes liver and kidney failure."
+  },
+  {
+    "name": "False Death Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Amanita_sp._2010-10-31.jpg/500px-Amanita_sp._2010-10-31.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amanita_citrina",
+    "genus_name": "Amanita",
+    "specific_name": "citrina",
+    "book_name": "Amanita citrina",
+    "edibility": "e",
+    "edibility_notes": "Not recommended as too easily confused with poisonous species (see opposite)."
+  },
+  {
+    "name": "Destroying Angel",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Amanita_bisporigera_17932.jpg/500px-Amanita_bisporigera_17932.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amanita_bisporigera",
+    "genus_name": "Amanita",
+    "specific_name": "bisporigera",
+    "book_name": "Amanita virosa",
+    "edibility": "p",
+    "edibility_notes": "Symptoms like those from Death Cap."
+  },
+  {
+    "name": "Tawny Grisette",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Amanita_fulva_lowpx.jpg/500px-Amanita_fulva_lowpx.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amanita_fulva",
+    "genus_name": "Amanita",
+    "specific_name": "fulva",
+    "book_name": "Amanita fulva",
+    "edibility": "e",
+    "edibility_notes": "Must be well cooked. Not recommended."
+  },
+  {
+    "name": "Parasol Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Parasol-Macrolepiota-procera.jpg/500px-Parasol-Macrolepiota-procera.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Macrolepiota_procera",
+    "genus_name": "Macrolepiota",
+    "specific_name": "procera",
+    "book_name": "Macrolepiota procera",
+    "edibility": "e",
+    "edibility_notes": "Excellent nutty taste. Discard stem and fry the cap whole, coated in breadcrumbs."
+  },
+  {
+    "name": "Shaggy Parasol",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Chlorophyllum_rhacodes_LC0093.jpg/500px-Chlorophyllum_rhacodes_LC0093.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shaggy_parasol",
+    "genus_name": "Chlorophyllum",
+    "specific_name": "rhacodes",
+    "book_name": "Macrolepita rhacodes",
+    "edibility": "e",
+    "edibility_notes": "A minority suffer from digestive upset and skin rash."
+  },
+  {
+    "name": "Stinking Parasol",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2011-12-01_Lepiota_cristata_%28Bolton%29_P._Kumm_186612.jpg/500px-2011-12-01_Lepiota_cristata_%28Bolton%29_P._Kumm_186612.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lepiota_cristata",
+    "genus_name": "Lepiota",
+    "specific_name": "cristata",
+    "book_name": "Lepiota cristata",
+    "edibility": "p",
+    "edibility_notes": "Many closely related species are very poisonous so do not eat small ‘Parasols’."
+  },
+  {
+    "name": "Saffron Parasol",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Amiant-K%C3%B6rnchenschirmling_Cystoderma_amianthinum.jpg/500px-Amiant-K%C3%B6rnchenschirmling_Cystoderma_amianthinum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cystoderma_amianthinum",
+    "genus_name": "Cystoderma",
+    "specific_name": "amianthinum",
+    "book_name": "Cystodetma amianthium",
+    "edibility": "i",
+    "edibility_notes": "Not worthwhile."
+  },
+  {
+    "name": "The Deceiver",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Lacc.lacc.jpg/500px-Lacc.lacc.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Laccaria_laccata",
+    "genus_name": "Laccaria",
+    "specific_name": "laccata",
+    "book_name": "Laccaria laccata",
+    "edibility": "e",
+    "edibility_notes": "Lacking in flavour. Discard the tough stems."
+  },
+  {
+    "name": "Amethyst Deceiver",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Laccaria_amethystina_-_Lak%C3%B3wka_ametystowa.jpg/500px-Laccaria_amethystina_-_Lak%C3%B3wka_ametystowa.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Laccaria_amethystina",
+    "genus_name": "Laccaria",
+    "specific_name": "amethystina",
+    "book_name": "Laccaria amethystea",
+    "edibility": "e",
+    "edibility_notes": "Retains its colour when cooked but lacks flavour."
+  },
+  {
+    "name": "Wood Blewit",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Clitocybe_nuda_%28Fr.%29_H.E._Bigelow_%26_A.H._Sm_267650.jpg/500px-Clitocybe_nuda_%28Fr.%29_H.E._Bigelow_%26_A.H._Sm_267650.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Collybia_nuda",
+    "genus_name": "Collybia",
+    "specific_name": "nuda",
+    "book_name": "Lepista nuda",
+    "edibility": "e",
+    "edibility_notes": "Must be well cooked. Watery when old."
+  },
+  {
+    "name": "Field Blewit",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Lepista_personata.JPG/500px-Lepista_personata.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Collybia_personata",
+    "genus_name": "Collybia",
+    "specific_name": "personata",
+    "book_name": "Lepista saeva",
+    "edibility": "e",
+    "edibility_notes": "Stem and cap have firm flesh and a subtle taste. Dries well."
+  },
+  {
+    "name": "Clouded Agaric",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Nevelzwam_%28nebularis%29_tussen_afgevallen_beukenblad_%28d.j.b.%29_01.jpg/500px-Nevelzwam_%28nebularis%29_tussen_afgevallen_beukenblad_%28d.j.b.%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clitocybe_nebularis",
+    "genus_name": "Clitocybe",
+    "specific_name": "nebularis",
+    "book_name": "Clitocybe nebularis",
+    "edibility": "e",
+    "edibility_notes": "Can cause digestive upset so best avoided."
+  },
+  {
+    "name": "Club-footed Funnel Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2010-10-08_Ampulloclitocybe_clavipes_cropped.jpg/500px-2010-10-08_Ampulloclitocybe_clavipes_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ampulloclitocybe_clavipes",
+    "genus_name": "Ampulloclitocybe",
+    "specific_name": "clavipes",
+    "book_name": "Clitocybe claves",
+    "edibility": "i",
+    "edibility_notes": "Not worth eating and causes nausea and hot flushes when consumed with alcohol."
+  },
+  {
+    "name": "Common Funnel Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Clitocybe_gibba_060820w.jpg/500px-Clitocybe_gibba_060820w.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+    "genus_name": "Infundibulicybe",
+    "specific_name": "gibba",
+    "book_name": "Clitocybe infundibuliformis",
+    "edibility": "e",
+    "edibility_notes": "Not worthwhile."
+  },
+  {
+    "name": "Aniseed Funnel Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Clitocybe-odora.jpg/500px-Clitocybe-odora.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clitocybe_odora",
+    "genus_name": "Clitocybe",
+    "specific_name": "odora",
+    "book_name": "Clitocybe odora",
+    "edibility": "e",
+    "edibility_notes": "Thin-fleshed. Best dried."
+  },
+  {
+    "name": "Ivory Clitocybe",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Clitocybe_dealbata_1.jpg/500px-Clitocybe_dealbata_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clitocybe_dealbata",
+    "genus_name": "Clitocybe",
+    "specific_name": "dealbata",
+    "book_name": "Clitocybe dealbata",
+    "edibility": "p",
+    "edibility_notes": "Excessive salivation and sweating shortly after ingestion. Can be fatal."
+  },
+  {
+    "name": "Wood Woolly-foot",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Collybia_peronata_20070812wb.JPG/500px-Collybia_peronata_20070812wb.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Collybiopsis_peronata#Naming",
+    "genus_name": "Collybiopsis",
+    "specific_name": "peronata",
+    "book_name": "Collybia peronata",
+    "edibility": "i",
+    "edibility_notes": "It has a peppery taste. Sometimes used to add spice to certain dishes."
+  },
+  {
+    "name": "Russet Tough Shank",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Collybia_dryophila_20061001w.jpg/500px-Collybia_dryophila_20061001w.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gymnopus_dryophilus",
+    "genus_name": "Gymnopus",
+    "specific_name": "dryophilus",
+    "book_name": "Collybia dryophila",
+    "edibility": "i",
+    "edibility_notes": "Tough. Poisonous if eaten raw."
+  },
+  {
+    "name": "Clustered Tough Shank",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Gymnopus.confluens.-.lindsey.jpg/500px-Gymnopus.confluens.-.lindsey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Collybiopsis_confluens",
+    "genus_name": "Collybiopsis",
+    "specific_name": "confluens",
+    "book_name": "Collybia confluens",
+    "edibility": "i",
+    "edibility_notes": "Tough and not worth eating."
+  },
+  {
+    "name": "Greasy Tough Shank",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Rhodocollybia_butyracea051207D.jpg/500px-Rhodocollybia_butyracea051207D.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rhodocollybia_butyracea",
+    "genus_name": "Rhodocollybia",
+    "specific_name": "butyracea",
+    "book_name": "Collybia buryracea",
+    "edibility": "e",
+    "edibility_notes": "Not worthwhile."
+  },
+  {
+    "name": "Spotted Tough Shank",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Rhodocollybia.maculata.-.lindsey.jpg/500px-Rhodocollybia.maculata.-.lindsey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rhodocollybia_maculata",
+    "genus_name": "Rhodocollybia",
+    "specific_name": "maculata",
+    "book_name": "Collybia maculata",
+    "edibility": "i",
+    "edibility_notes": "Very tough with a bitter taste."
+  },
+  {
+    "name": "Fairy Ring Champignon",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Michigan_Marasmius_oreades.jpg/500px-Michigan_Marasmius_oreades.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marasmius_oreades",
+    "genus_name": "Marasmius",
+    "specific_name": "oreades",
+    "book_name": "Marasmius oreades",
+    "edibility": "e",
+    "edibility_notes": "Use dried in soups and stews. Beware confusion with Ivory Clitocybe."
+  },
+  {
+    "name": "Little Wheel Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Marasmius_rotula_148433.jpg/500px-Marasmius_rotula_148433.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marasmius_rotula",
+    "genus_name": "Marasmius",
+    "specific_name": "rotula",
+    "book_name": "Marasmius rotuda",
+    "edibility": "i",
+    "edibility_notes": "It is tough and very small."
+  },
+  {
+    "name": "Horse-hair Fungus",
+    "image_link": "https://www.mushroomexpert.com/images/contrib/kielb_gymnopus_androsaceus_03_thumb.jpg",
+    "wikipedia_link": "https://www.mushroomexpert.com/gymnopus_androsaceus.html",
+    "genus_name": "Gymnopus",
+    "specific_name": "androsaceus",
+    "book_name": "Marasmius androsaceus",
+    "edibility": "i",
+    "edibility_notes": "Tough and insubstantial."
+  },
+  {
+    "name": "Bonnet Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mycena_60303.jpg/500px-Mycena_60303.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_galericulata",
+    "genus_name": "Mycena",
+    "specific_name": "galericulata",
+    "book_name": "Mycena galericulata",
+    "edibility": "e",
+    "edibility_notes": "Insubstantial and not worth eating."
+  },
+  {
+    "name": "Stump Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Mycena.alcalina.002..jpg/500px-Mycena.alcalina.002..jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_alcalina",
+    "genus_name": "Mycena",
+    "specific_name": "alcalina",
+    "book_name": "Mycena alcalina",
+    "edibility": "i",
+    "edibility_notes": "Not worth eating despite its mild taste."
+  },
+  {
+    "name": "Tufted Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Mycena_inclinata%2C_Clustered_Bonnet%2C_UK.jpg/500px-Mycena_inclinata%2C_Clustered_Bonnet%2C_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_inclinata",
+    "genus_name": "Mycena",
+    "specific_name": "inclinata",
+    "book_name": "Mycena inclinata",
+    "edibility": "i",
+    "edibility_notes": "Not worth eating despite the mild taste."
+  },
+  {
+    "name": "Milky Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Mycena_galopus_68060.jpg/500px-Mycena_galopus_68060.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_galopus",
+    "genus_name": "Mycena",
+    "specific_name": "galopus",
+    "book_name": "Mycena galoptus",
+    "edibility": "e",
+    "edibility_notes": "Not worth eating"
+  },
+  {
+    "name": "Small Bleeding Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Mycena_sanguinolenta_Van_Damme.jpg/500px-Mycena_sanguinolenta_Van_Damme.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_sanguinolenta",
+    "genus_name": "Mycena",
+    "specific_name": "sanguinolenta",
+    "book_name": "Mycena sanguinolenta",
+    "edibility": "e",
+    "edibility_notes": "Not worthwhile."
+  },
+  {
+    "name": "Lilac Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Rettichhelmling002.JPG/500px-Rettichhelmling002.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_pura",
+    "genus_name": "Mycena",
+    "specific_name": "pura",
+    "book_name": "Mycena pura",
+    "edibility": "p",
+    "edibility_notes": "Contains muscarine."
+  },
+  {
+    "name": "Yellow-stemmed Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Dehnbare_Helmling_Mycena_epipterygia.jpg/500px-Dehnbare_Helmling_Mycena_epipterygia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_epipterygia",
+    "genus_name": "Mycena",
+    "specific_name": "epipterygia",
+    "book_name": "Mycena epipterygia",
+    "edibility": "e",
+    "edibility_notes": "Too small to be worth eating."
+  },
+  {
+    "name": "Orange Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mycena_acicula_Oakland.jpg/500px-Mycena_acicula_Oakland.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mycena_acicula",
+    "genus_name": "Mycena",
+    "specific_name": "acicula",
+    "book_name": "Mycena acicula",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial."
+  },
+  {
+    "name": "Orange Moss Agaric",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2011-10-28_Rickenella_fibula_%28Bulliard-_Fries%29_Raithelhuber_178120_cropped.jpg/500px-2011-10-28_Rickenella_fibula_%28Bulliard-_Fries%29_Raithelhuber_178120_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rickenella_fibula#References",
+    "genus_name": "Rickenella",
+    "specific_name": "fibula",
+    "book_name": "Rickenella fibula",
+    "edibility": "i",
+    "edibility_notes": "Too small to be worth eating."
+  },
+  {
+    "name": "Umbrella Navel Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Lichenomphalia_umbellifera_-_Lindsey_1a.jpg/500px-Lichenomphalia_umbellifera_-_Lindsey_1a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lichenomphalia_umbellifera",
+    "genus_name": "Omphalia",
+    "specific_name": "ericetorum",
+    "book_name": "Omphalina ericetorum",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial."
+  },
+  {
+    "name": "Rooting Shank",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Xerula.radicata3.-.lindsey.jpg/500px-Xerula.radicata3.-.lindsey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hymenopellis_radicata",
+    "genus_name": "Oudemansiella",
+    "specific_name": "radicata",
+    "book_name": "Oudemansiella radicata",
+    "edibility": "e",
+    "edibility_notes": "Not worth eating due to slimy cap."
+  },
+  {
+    "name": "Porcelain Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Oudemansiella_mucida_JPG1.jpg/500px-Oudemansiella_mucida_JPG1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oudemansiella_mucida",
+    "genus_name": "Oudemansiella",
+    "specific_name": "mucida",
+    "book_name": "Oudemansiella mucida",
+    "edibility": "e",
+    "edibility_notes": "The slime must be removed first."
+  },
+  {
+    "name": "Velvet Shank",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/2009-11-19_Flammulina_velutipes_agg_biolib.cz_crop.jpg/500px-2009-11-19_Flammulina_velutipes_agg_biolib.cz_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Flammulina_velutipes",
+    "genus_name": "Flammulina",
+    "specific_name": "velutipes",
+    "book_name": "Flammulina velutipes",
+    "edibility": "e",
+    "edibility_notes": "Remove the slimy layer and tough stem."
+  },
+  {
+    "name": "Honey Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Armillaria_mellea%2C_Honey_Fungus%2C_UK_1.jpg/500px-Armillaria_mellea%2C_Honey_Fungus%2C_UK_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Armillaria_mellea",
+    "genus_name": "Armillaria",
+    "specific_name": "mellea",
+    "book_name": "Anmillaria mellea",
+    "edibility": "e",
+    "edibility_notes": "Not easily digested. Must be well cooked."
+  },
+  {
+    "name": "Bulbous Honey Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Armillaria_gallica_26659.jpg/500px-Armillaria_gallica_26659.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Armillaria_gallica",
+    "genus_name": "Armillaria",
+    "specific_name": "gallica",
+    "book_name": "Armillaria bulbosa",
+    "edibility": "e",
+    "edibility_notes": "Not easily digested. Must be well cooked."
+  },
+  {
+    "name": "Soap-scented Tricholoma",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tricholoma_saponaceum.jpg/500px-Tricholoma_saponaceum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tricholoma_saponaceum",
+    "genus_name": "Tricholoma",
+    "specific_name": "saponaceum",
+    "book_name": "Tricholoma saponaceum",
+    "edibility": "i",
+    "edibility_notes": "Bitter taste. May cause digestive upset and easily confused with poisonous species."
+  },
+  {
+    "name": "Grey Tricholoma",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Tricholoma_terreum_20061105wa.jpg/500px-Tricholoma_terreum_20061105wa.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tricholoma_terreum",
+    "genus_name": "Tricholoma",
+    "specific_name": "terreum",
+    "book_name": "Tricholoma terreum",
+    "edibility": "e",
+    "edibility_notes": "Has a mild taste but other grey Tricholomas are poisonous."
+  },
+  {
+    "name": "Scaly Tricholoma",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tricholoma_vaccinum_99338.jpg/500px-Tricholoma_vaccinum_99338.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tricholoma_vaccinum",
+    "genus_name": "Tricholoma",
+    "specific_name": "vaccinum",
+    "book_name": "Tricholoma argyraceum",
+    "edibility": "e",
+    "edibility_notes": "A mild taste but not very good eating."
+  },
+  {
+    "name": "Yellow-brown Tricholoma",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tricholoma_fulvum_LC0373.jpg/500px-Tricholoma_fulvum_LC0373.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tricholoma_fulvum",
+    "genus_name": "Tricholoma",
+    "specific_name": "fulvum",
+    "book_name": "Tricholoma fulvum",
+    "edibility": "e",
+    "edibility_notes": "Poor. Can be confused with other brown species."
+  },
+  {
+    "name": "Sulphur Tricholoma",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tricholoma_sulphureum_031123w.jpg/500px-Tricholoma_sulphureum_031123w.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tricholoma_sulphureum",
+    "genus_name": "Tricholoma",
+    "specific_name": "sulphureum",
+    "book_name": "Tricholoma sulphureum",
+    "edibility": "i",
+    "edibility_notes": "The smell is unpleasant."
+  },
+  {
+    "name": "St George’s Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Calocybe_gambosa_080420wa.jpg/500px-Calocybe_gambosa_080420wa.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Calocybe_gambosa",
+    "genus_name": "Calocybe",
+    "specific_name": "gambosa",
+    "book_name": "Calocybe gambosa",
+    "edibility": "e",
+    "edibility_notes": "Good when young, with a firm, dry flesh."
+  },
+  {
+    "name": "Clustered Brown Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Lyophyllum_decastes_071012.jpg/500px-Lyophyllum_decastes_071012.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lyophyllum_decastes",
+    "genus_name": "Lyophyllum",
+    "specific_name": "decastes",
+    "book_name": "Lyophyllum decastes",
+    "edibility": "e",
+    "edibility_notes": "Not highly rated. Beware highly poisonous lookalike Livid Entoloma"
+  },
+  {
+    "name": "Changeable Melanoleuca",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Melanoleuca_melaleuca_325844_Koller_121121.jpg/500px-Melanoleuca_melaleuca_325844_Koller_121121.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Melanoleuca_melaleuca",
+    "genus_name": "Melanoleuca",
+    "specific_name": "melaleuca",
+    "book_name": "Melanoleuca melalenca",
+    "edibility": "e",
+    "edibility_notes": "Insipid taste so not recommended."
+  },
+  {
+    "name": "Plums and custard",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Trichol_rutilans02_Alberto_V%C3%A1zquez.JPG/500px-Trichol_rutilans02_Alberto_V%C3%A1zquez.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tricholomopsis_rutilans",
+    "genus_name": "Tricholomopsis",
+    "specific_name": "rutilans",
+    "book_name": "Tricholomopsis rutilans",
+    "edibility": "i",
+    "edibility_notes": "Not poisonous but not edible despite its name."
+  },
+  {
+    "name": "Ivory Wax Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hygrophorus_eburneus-pastorino.JPG/500px-Hygrophorus_eburneus-pastorino.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hygrophorus_eburneus",
+    "genus_name": "Hygrophorus",
+    "specific_name": "eburneus",
+    "book_name": "Hygrocybe nivea",
+    "edibility": "e",
+    "edibility_notes": "Beware confusion with poisonous species such as Ivory Clitocybe."
+  },
+  {
+    "name": "Yellow Wax cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Hygrocybe_chlorophana.jpg/500px-Hygrocybe_chlorophana.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hygrocybe_chlorophana",
+    "genus_name": "Hygrocybe",
+    "specific_name": "chlorophana",
+    "book_name": "Hygrocybe flavescens",
+    "edibility": "i",
+    "edibility_notes": "Small and slimy, with an insipid taste."
+  },
+  {
+    "name": "Orange-red Wax Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hygrocybe_miniata_-_Ferndale_Park.jpg/500px-Hygrocybe_miniata_-_Ferndale_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hygrocybe_miniata",
+    "genus_name": "Hygrocybe",
+    "specific_name": "miniata",
+    "book_name": "Hygrocybe strangulata",
+    "edibility": "i",
+    "edibility_notes": "Not recorded as being worth eating."
+  },
+  {
+    "name": "Blackening Wax Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Bresadola_-_Hygrophorus_nigrescens.png/500px-Bresadola_-_Hygrophorus_nigrescens.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hygrocybe_nigrescens",
+    "genus_name": "Hygrocybe",
+    "specific_name": "nigrescens",
+    "book_name": "Hygrocybe nigrescens",
+    "edibility": "i",
+    "edibility_notes": "Slightly bitter taste. Edibility suspect."
+  },
+  {
+    "name": "Meadow Wax Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2010-11-20_Cuphophyllus_pratensis.jpg/500px-2010-11-20_Cuphophyllus_pratensis.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cuphophyllus_pratensis",
+    "genus_name": "Cuphophyllus",
+    "specific_name": "pratensis",
+    "book_name": "Hygrocybe pratensis",
+    "edibility": "e",
+    "edibility_notes": "Needs slow cooking. Mild taste."
+  },
+  {
+    "name": "Scarlet Hood",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Hygrocybe_coccinea_%281%29.jpg/500px-Hygrocybe_coccinea_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hygrocybe_coccinea",
+    "genus_name": "Hygrocybe",
+    "specific_name": "coccinea",
+    "book_name": "Hygrocybe coccinea",
+    "edibility": "e",
+    "edibility_notes": "Not poisonous despite the orange-red flesh."
+  },
+  {
+    "name": "Parrot Wax Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hygrocybe_psittacina_54530.jpg/500px-Hygrocybe_psittacina_54530.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gliophorus_psittacinus",
+    "genus_name": "Gliophorus",
+    "specific_name": "psittacinus",
+    "book_name": "Hygrocybe psittacina",
+    "edibility": "i",
+    "edibility_notes": "Not poisonous but not pleasant to eat."
+  },
+  {
+    "name": "Herald of Winter",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hygrophorus_hypothejus_2.jpg/500px-Hygrophorus_hypothejus_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hygrophorus_hypothejus",
+    "genus_name": "Hygrophorus",
+    "specific_name": "hypothejus",
+    "book_name": "Hyerophorus hypothejus",
+    "edibility": "e",
+    "edibility_notes": "Mild tasting but poor texture."
+  },
+  {
+    "name": "Common Yellow Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Russula_ochroleuca_ch%C3%A2taigne.JPG/500px-Russula_ochroleuca_ch%C3%A2taigne.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_ochroleuca",
+    "genus_name": "Russula",
+    "specific_name": "ochroleuca",
+    "book_name": "Russula ochroleuca",
+    "edibility": "e",
+    "edibility_notes": "Peppery flesh is not to everyone's taste."
+  },
+  {
+    "name": "Yellow-gilled Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2012-06-15_Russula_risigallina_%28Batsch%29_Saccardo_228083.jpg/500px-2012-06-15_Russula_risigallina_%28Batsch%29_Saccardo_228083.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_risigallina",
+    "genus_name": "Russula",
+    "specific_name": "risigallina",
+    "book_name": "Russula lutea",
+    "edibility": "e",
+    "edibility_notes": "Mild tasting but rather insubstantial."
+  },
+  {
+    "name": "Yellow Swamp Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/2010-08-11_Russula_claroflava_Grove._ss._Melz%2C_%26_Zv.%2C_J._Schff_98988.jpg/500px-2010-08-11_Russula_claroflava_Grove._ss._Melz%2C_%26_Zv.%2C_J._Schff_98988.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_claroflava",
+    "genus_name": "Russula",
+    "specific_name": "claroflava",
+    "book_name": "Russula claroflava",
+    "edibility": "e",
+    "edibility_notes": "Has a pleasant texture and taste."
+  },
+  {
+    "name": "Geranium-scented Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Russ.fell.jpg/500px-Russ.fell.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_fellea",
+    "genus_name": "Russula",
+    "specific_name": "fellea",
+    "book_name": "Russula fellea",
+    "edibility": "i",
+    "edibility_notes": "The flesh has a very hot taste."
+  },
+  {
+    "name": "Stinking Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Russula_foetens.JPG/500px-Russula_foetens.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_foetens",
+    "genus_name": "Russula",
+    "specific_name": "foetens",
+    "book_name": "Russula foetans",
+    "edibility": "i",
+    "edibility_notes": "Unpleasant smell and peppery cap flesh."
+  },
+  {
+    "name": "Fragile Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Russula_fragilis.jpg/500px-Russula_fragilis.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_fragilis",
+    "genus_name": "Russula",
+    "specific_name": "fragilis",
+    "book_name": "Russula fragilis",
+    "edibility": "i",
+    "edibility_notes": "Has a very acrid taste."
+  },
+  {
+    "name": "Birch Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Russula_betularum.jpg/500px-Russula_betularum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_betularum",
+    "genus_name": "Russula",
+    "specific_name": "betularum",
+    "book_name": "Rusula betularum",
+    "edibility": "i",
+    "edibility_notes": "Very acrid taste."
+  },
+  {
+    "name": "Bare-toothed Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Russ.ves.jpg/500px-Russ.ves.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_vesca",
+    "genus_name": "Russula",
+    "specific_name": "vesca",
+    "book_name": "Russula vesca",
+    "edibility": "e",
+    "edibility_notes": "Pleasant nutty taste."
+  },
+  {
+    "name": "The Charcoal Burner",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Russula_cyanoxantha.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_cyanoxantha",
+    "genus_name": "Russula",
+    "specific_name": "cyanoxantha",
+    "book_name": "Russula cyanoxantha",
+    "edibility": "e",
+    "edibility_notes": "Mild taste and firm texture."
+  },
+  {
+    "name": "Blackish Purple Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Russ.atro.jpg/500px-Russ.atro.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_atropurpurea",
+    "genus_name": "Russula",
+    "specific_name": "atropurpurea",
+    "book_name": "Russula atropurpurea",
+    "edibility": "e",
+    "edibility_notes": "Must be cooked. Mild to slightly peppery."
+  },
+  {
+    "name": "Blackening Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Russula_nigricans_-_Lindsey_3a.jpg/500px-Russula_nigricans_-_Lindsey_3a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_adusta",
+    "genus_name": "Russula",
+    "specific_name": "adusta",
+    "book_name": "Russula nigricans",
+    "edibility": "e",
+    "edibility_notes": "Good when young, later tough and full of maggots."
+  },
+  {
+    "name": "The Sickener",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Russula_emetica_in_Poland.jpg/500px-Russula_emetica_in_Poland.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_emetica",
+    "genus_name": "Russula",
+    "specific_name": "emetica",
+    "book_name": "Russula emetica",
+    "edibility": "p",
+    "edibility_notes": "The acrid flesh causes vomiting."
+  },
+  {
+    "name": "Beechwood Sickener",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Russ_nobilis.jpg/500px-Russ_nobilis.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_nobilis",
+    "genus_name": "Russula",
+    "specific_name": "nobilis",
+    "book_name": "Russula mairei",
+    "edibility": "p",
+    "edibility_notes": "The acrid flesh causes sickness."
+  },
+  {
+    "name": "Crab-scented Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/2011-11-08_Russula_xerampelina_%28Schaeff.%29_Fr_180998_mod.jpg/500px-2011-11-08_Russula_xerampelina_%28Schaeff.%29_Fr_180998_mod.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_xerampelina",
+    "genus_name": "Russula",
+    "specific_name": "xerampelina",
+    "book_name": "Russula xerampelina",
+    "edibility": "e",
+    "edibility_notes": "Mild taste despite the crab-like smell."
+  },
+  {
+    "name": "Grass-green Russula",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2005-08-18_Russula_aeruginea_14354_mod.jpg/500px-2005-08-18_Russula_aeruginea_14354_mod.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Russula_aeruginea",
+    "genus_name": "Russula",
+    "specific_name": "aeruginea",
+    "book_name": "Russula aeruginea",
+    "edibility": "p",
+    "edibility_notes": "May cause digestive upset."
+  },
+  {
+    "name": "Peppery Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lactarius_piperatus_98569.jpg/500px-Lactarius_piperatus_98569.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactifluus_piperatus",
+    "genus_name": "Lactifluus",
+    "specific_name": "piperatus",
+    "book_name": "Lactarius piperatus",
+    "edibility": "e",
+    "edibility_notes": "Dried specimens have been used as a seasoning but the very acrid taste is not for the faint hearted."
+  },
+  {
+    "name": "Fleecy Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Lactarius_vellereus.jpg/500px-Lactarius_vellereus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactifluus_vellereus",
+    "genus_name": "Lactifluus",
+    "specific_name": "vellereus",
+    "book_name": "Lactarius vellereus",
+    "edibility": "i",
+    "edibility_notes": "Acrid taste when young, poor texture."
+  },
+  {
+    "name": "Oak Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Lactarius_quietus_2010_G1.jpg/500px-Lactarius_quietus_2010_G1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_quietus",
+    "genus_name": "Lactarius",
+    "specific_name": "quietus",
+    "book_name": "Lactarius quiets",
+    "edibility": "i",
+    "edibility_notes": "Slight bitter taste, unpleasant smell."
+  },
+  {
+    "name": "Slimy Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lactarius_blennius_JPG01.jpg/500px-Lactarius_blennius_JPG01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_blennius",
+    "genus_name": "Lactarius",
+    "specific_name": "blennius",
+    "book_name": "Lactarius bennius",
+    "edibility": "i",
+    "edibility_notes": "Slimy cap surface and very acrid taste."
+  },
+  {
+    "name": "Ugly Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Lactarius_turpis_2010_G1.jpg/500px-Lactarius_turpis_2010_G1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_turpis",
+    "genus_name": "Lactarius",
+    "specific_name": "turpis",
+    "book_name": "Lactarius turpis",
+    "edibility": "i",
+    "edibility_notes": "Not recommended due to its bitter taste."
+  },
+  {
+    "name": "Rufous Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lact.ruf.jpg/500px-Lact.ruf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_rufus",
+    "genus_name": "Lactarius",
+    "specific_name": "rufus",
+    "book_name": "Lactarius rufus",
+    "edibility": "i",
+    "edibility_notes": "The initially mild tasting milk becomes very acrid after about a minute."
+  },
+  {
+    "name": "Sweet Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Lact.sub.jpg/500px-Lact.sub.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_subdulcis",
+    "genus_name": "Lactarius",
+    "specific_name": "subdulcis",
+    "book_name": "Lactarius subdulcis",
+    "edibility": "i",
+    "edibility_notes": "The milk initially tastes sweet but has a very bitter aftertaste."
+  },
+  {
+    "name": "Small Brown Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Lactarius_hepaticus_031123w.jpg/500px-Lactarius_hepaticus_031123w.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_tabidus",
+    "genus_name": "Lactarius",
+    "specific_name": "tabidus",
+    "book_name": "Lactarius tabidus",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial with a slightly acrid taste."
+  },
+  {
+    "name": "Coconut-scented Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Lactarius_glyciosmus_20121201w.JPG/500px-Lactarius_glyciosmus_20121201w.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_glyciosmus",
+    "genus_name": "Lactarius",
+    "specific_name": "glyciosmus",
+    "book_name": "Lactarius glyciosmus",
+    "edibility": "e",
+    "edibility_notes": "Used for flavouring but has a fairly hot taste."
+  },
+  {
+    "name": "Woolly Milk Cap",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lactarius_torminosus_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_torminosus",
+    "genus_name": "Lactarius",
+    "specific_name": "torminosus",
+    "book_name": "Lactarius torminosus",
+    "edibility": "p",
+    "edibility_notes": "Parboiled it is eatable but not edible."
+  },
+  {
+    "name": "Saffron Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Lactarius_deliciosus.jpg/500px-Lactarius_deliciosus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_deliciosus",
+    "genus_name": "Lactarius",
+    "specific_name": "deliciosus",
+    "book_name": "Lactarius deliciosus",
+    "edibility": "e",
+    "edibility_notes": "Best blanched before being fried."
+  },
+  {
+    "name": "Spruce Milk Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Fichten-Reizker_Lactarius_deterrimus.jpg/500px-Fichten-Reizker_Lactarius_deterrimus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lactarius_deterrimus",
+    "genus_name": "Lactarius",
+    "specific_name": "deterrimus",
+    "book_name": "Lactarius deterrimus",
+    "edibility": "i",
+    "edibility_notes": "Cooking reduces the bitterness. Not recommended."
+  },
+  {
+    "name": "Fawn Pluteus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg/500px-Rehbrauner_Dachpilz_Bruderwald-20251017-RM-164830.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pluteus_cervinus",
+    "genus_name": "Pluteus",
+    "specific_name": "cervinus",
+    "book_name": "Pluteus cervinus",
+    "edibility": "e",
+    "edibility_notes": "Not highly rated due to its sharp taste."
+  },
+  {
+    "name": "Veined Pluteus",
+    "image_link": "https://inaturalist-open-data.s3.amazonaws.com/photos/13420843/medium.jpg",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pluteus_thomsonii",
+    "genus_name": "Pluteus",
+    "specific_name": "thomsonii",
+    "book_name": "Pluteus umbrosus",
+    "edibility": "e",
+    "edibility_notes": "Soft-fleshed and not highly recommended."
+  },
+  {
+    "name": "Silky Nolanea",
+    "image_link": "https://static.inaturalist.org/photos/30023639/medium.jpg",
+    "wikipedia_link": "https://www.inaturalist.org/taxa/350740-Entoloma-sericeum",
+    "genus_name": "Entoloma",
+    "specific_name": "sericeum",
+    "book_name": "Nolanea sericea",
+    "edibility": "i",
+    "edibility_notes": "Confusable with poisonous pink-spored species."
+  },
+  {
+    "name": "Striated Nolanea",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Kreuzsporiger_R%C3%B6tling_%28Entoloma_conferendum%29-20251022-RM-172351.jpg/500px-Kreuzsporiger_R%C3%B6tling_%28Entoloma_conferendum%29-20251022-RM-172351.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Entoloma_conferendum",
+    "genus_name": "Entoloma",
+    "specific_name": "conferendum",
+    "book_name": "Nolanea staurospora",
+    "edibility": "i",
+    "edibility_notes": "Too easily confused with poisonous species."
+  },
+  {
+    "name": "White Leptonia",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Entoloma_sericellum--_Waxy_Pinkgill_%2831845512274%29.jpg/500px-Entoloma_sericellum--_Waxy_Pinkgill_%2831845512274%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Entoloma_sericellum",
+    "genus_name": "Entoloma",
+    "specific_name": "sericellum",
+    "book_name": "Leptonia sericella",
+    "edibility": "i",
+    "edibility_notes": "Beware confusion with highly poisonous fungi."
+  },
+  {
+    "name": "Crow Pinkgill",
+    "image_link": "https://inaturalist-open-data.s3.amazonaws.com/photos/48856930/medium.jpg",
+    "wikipedia_link": "https://www.inaturalist.org/taxa/472322-Entoloma-corvinum",
+    "genus_name": "Entoloma",
+    "specific_name": "corvinum",
+    "book_name": "Leptonia corvina",
+    "edibility": "p",
+    "edibility_notes": "Some blue Leptonias are poisonous, so avoid."
+  },
+  {
+    "name": "Livid Entoloma",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Entoloma_sinuatum_group.JPG/500px-Entoloma_sinuatum_group.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Entoloma_sinuatum",
+    "genus_name": "Entoloma",
+    "specific_name": "sinuatum",
+    "book_name": "Entoloma lividum",
+    "edibility": "p",
+    "edibility_notes": "Causes gastric upset and liver damage."
+  },
+  {
+    "name": "The Miller",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Clitopilus_prunulus_-_BC%2C_2024.jpg/500px-Clitopilus_prunulus_-_BC%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clitopilus_prunulus",
+    "genus_name": "Clitopilus",
+    "specific_name": "prunulus",
+    "book_name": "Clitopilus prunulus",
+    "edibility": "e",
+    "edibility_notes": "xcellent. the firm flesh tastes of meal. Beware confusion with poisonous Ivory Clitocybe"
+  },
+  {
+    "name": "Apricot Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Rhodotus_palmatus2.jpg/500px-Rhodotus_palmatus2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rhodotus",
+    "genus_name": "Rhodotus",
+    "specific_name": "palmatus",
+    "book_name": "Rhodotus palmatus",
+    "edibility": "i",
+    "edibility_notes": "The flesh has a very bitter taste."
+  },
+  {
+    "name": "Egg Yolk Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Goldmistpilze2.jpg/500px-Goldmistpilze2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bolbitius_titubans#Description",
+    "genus_name": "Bolbitius",
+    "specific_name": "titubans",
+    "book_name": "Bolbitius vitellinus",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial and with a slimy texture."
+  },
+  {
+    "name": "Brown Bell Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Galerina_marginata_Point_Reyes.jpg/500px-Galerina_marginata_Point_Reyes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Galerina_marginata",
+    "genus_name": "Galerina",
+    "specific_name": "marginata",
+    "book_name": "Conocybe tenera",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial"
+  },
+  {
+    "name": "Spring Agaric",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Agaricus.bitorquis.nathan.jpg/500px-Agaricus.bitorquis.nathan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agaricus_bitorquis#Taxonomy",
+    "genus_name": "Agaricus",
+    "specific_name": "bitorquis",
+    "book_name": "Agrocybe praecox",
+    "edibility": "e",
+    "edibility_notes": "Must be well cooked; not recommended."
+  },
+  {
+    "name": "Shaggy Pholiota",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Sparrige-Sch%C3%BCppling_%28Pholiota_squarrosa%29.JPG/500px-Sparrige-Sch%C3%BCppling_%28Pholiota_squarrosa%29.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pholiota_squarrosa",
+    "genus_name": "Pholiota",
+    "specific_name": "squarrosa",
+    "book_name": "Pholiota squarrosa",
+    "edibility": "i",
+    "edibility_notes": "The bitter flesh is difficult to digest."
+  },
+  {
+    "name": "Charcoal Pholiota",
+    "image_link": "https://www.mushroomexpert.com/images/kuo2/pholiota_highlandensis_01_thumb.jpg",
+    "wikipedia_link": "https://www.mushroomexpert.com/pholiota_highlandensis.html",
+    "genus_name": "Pholiota",
+    "specific_name": "carbonaria",
+    "book_name": "Photiota highlandensi",
+    "edibility": "i",
+    "edibility_notes": "Insubstansial"
+  },
+  {
+    "name": "Brown Stew Fungus",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stockschwaemmchen.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kuehneromyces_mutabilis",
+    "genus_name": "Kuehneromyces",
+    "specific_name": "mutabilis",
+    "book_name": "Kuehneromyces mutabilis",
+    "edibility": "e",
+    "edibility_notes": "The caps add flavour and colour to stews."
+  },
+  {
+    "name": "Sulphur Tuft",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hypholoma_fasciculare_Queteraro.jpg/500px-Hypholoma_fasciculare_Queteraro.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hypholoma_fasciculare",
+    "genus_name": "Hypholoma",
+    "specific_name": "fasciculare",
+    "book_name": "Hypholoma fasiculare",
+    "edibility": "p",
+    "edibility_notes": "Very bitter with a taste like quinine."
+  },
+  {
+    "name": "Brick Caps",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HypholomaSublateritium.jpg/500px-HypholomaSublateritium.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hypholoma_lateritium",
+    "genus_name": "Hypholoma",
+    "specific_name": "lateritium",
+    "book_name": "Hypholoma sublateritium",
+    "edibility": "i",
+    "edibility_notes": "Less bitter than Sulphur Tuft but not edible."
+  },
+  {
+    "name": "Verdigris Toadstool",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Stropharia.aeruginosa.-.lindsey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stropharia_aeruginosa",
+    "genus_name": "Stropharia",
+    "specific_name": "aeruginosa",
+    "book_name": "Stropharia aeruginosa",
+    "edibility": "p",
+    "edibility_notes": "Fortunately the colour is offputting."
+  },
+  {
+    "name": "Dung Roundhead",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Stropharia_semiglobata_38287.jpg/500px-Stropharia_semiglobata_38287.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Protostropharia_semiglobata",
+    "genus_name": "Protostropharia",
+    "specific_name": "semiglobata",
+    "book_name": "Stropharia semiglobata",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial and slimy-textured."
+  },
+  {
+    "name": "Magic Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Psilocybe.semilanceata.Alan.jpg/500px-Psilocybe.semilanceata.Alan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Psilocybe_semilanceata",
+    "genus_name": "Psilocybe",
+    "specific_name": "semilanceata",
+    "book_name": "Psilocybe semilanceata",
+    "edibility": "p",
+    "edibility_notes": "Affects sensory perception. Unpleasant taste."
+  },
+  {
+    "name": "Red-banded Cortinarius",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Cortinarius.armillatus2.-.lindsey.jpg/500px-Cortinarius.armillatus2.-.lindsey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cortinarius_armillatus",
+    "genus_name": "Cortinarius",
+    "specific_name": "armillatus",
+    "book_name": "Cortinarius armillatus",
+    "edibility": "i",
+    "edibility_notes": "Some species are very poisonous."
+  },
+  {
+    "name": "Purple Cortinarius",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cortinarius_purpurascens_65102.jpg/500px-Cortinarius_purpurascens_65102.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Thaxterogaster_purpurascens",
+    "genus_name": "Thaxterogaster",
+    "specific_name": "purpurascens",
+    "book_name": "Cortinarius purpurascens",
+    "edibility": "i",
+    "edibility_notes": "Reported to produce digestive upset, so avoid."
+  },
+  {
+    "name": "Blood-red Cortinarius",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Cortinarius_sanguineus_BS11.JPG/500px-Cortinarius_sanguineus_BS11.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cortinarius_sanguineus",
+    "genus_name": "Cortinarius",
+    "specific_name": "sanguineus",
+    "book_name": "Cortinarius sanguineus",
+    "edibility": "p",
+    "edibility_notes": "Confusable with the very poisonous C. orellanus."
+  },
+  {
+    "name": "Red-staining Inocybe",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2010-04-27_Inocybe_erubescens.jpg/500px-2010-04-27_Inocybe_erubescens.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Inosperma_erubescens",
+    "genus_name": "Inosperma",
+    "specific_name": "erubescens",
+    "book_name": "Inocybe patouillardii",
+    "edibility": "p",
+    "edibility_notes": "Causes death by heart failure or asphyxiation."
+  },
+  {
+    "name": "Straw-coloured Inocybe",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2011-11-26_Inocybe_rimosa_%28Bull.%29_P._Kumm_185170.jpg/500px-2011-11-26_Inocybe_rimosa_%28Bull.%29_P._Kumm_185170.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Inocybe_rimosa",
+    "genus_name": "Inocybe",
+    "specific_name": "rimosa",
+    "book_name": "Inocybe fastigiata",
+    "edibility": "p",
+    "edibility_notes": "Dangerous due to its muscarine content."
+  },
+  {
+    "name": "Common White Inocybe",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Ino.geo.jpg/500px-Ino.geo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Inocybe_geophylla",
+    "genus_name": "Inocybe",
+    "specific_name": "geophylla",
+    "book_name": "Inocybe geophylla",
+    "edibility": "p",
+    "edibility_notes": "Dangerous as it is easily confused with edibles."
+  },
+  {
+    "name": "Poison Pie",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/2012-10-16_Hebeloma_crustuliniforme_%28Bull.%29_Qu%C3%A9l_272561_crop.jpg/500px-2012-10-16_Hebeloma_crustuliniforme_%28Bull.%29_Qu%C3%A9l_272561_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hebeloma_crustuliniforme",
+    "genus_name": "Hebeloma",
+    "specific_name": "crustuliniforme",
+    "book_name": "Hebeloma crustuliniforme",
+    "edibility": "p",
+    "edibility_notes": "Very bitter, causing gastric upset."
+  },
+  {
+    "name": "Dark-centred Hebeloma",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Hebeloma_mesophaeum_-_Lindsey.jpg/500px-Hebeloma_mesophaeum_-_Lindsey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hebeloma_mesophaeum",
+    "genus_name": "Hebeloma",
+    "specific_name": "mesophaeum",
+    "book_name": "Hebeloma mesophacuom",
+    "edibility": "i",
+    "edibility_notes": "Avoid as related species are poisonous."
+  },
+  {
+    "name": "Rusty Wood Rotter",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Gymnopilus_sapineus_group_568289.jpg/500px-Gymnopilus_sapineus_group_568289.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gymnopilus_sapineus",
+    "genus_name": "Gymnopilus",
+    "specific_name": "sapineus",
+    "book_name": "Gymnopilus penetrans",
+    "edibility": "i",
+    "edibility_notes": "Tough and with bitter-tasting flesh."
+  },
+  {
+    "name": "Spectacular Gymnopile",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gymnopilus_junonius-02.jpg/500px-Gymnopilus_junonius-02.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gymnopilus_junonius",
+    "genus_name": "Gymnopilus",
+    "specific_name": "junonius",
+    "book_name": "Gymnopilus junonius",
+    "edibility": "i",
+    "edibility_notes": "Bitter. Wrongly recorded as hallucinogenic."
+  },
+  {
+    "name": "Moss Pixy Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Galerina_hypnorum_%26_Pyrrhobryum_parramattense.jpg/500px-Galerina_hypnorum_%26_Pyrrhobryum_parramattense.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Galerina_hypnorum",
+    "genus_name": "Galerina",
+    "specific_name": "hypnorum",
+    "book_name": "Galerina vittiformis",
+    "edibility": "i",
+    "edibility_notes": "Too small to be worth eating."
+  },
+  {
+    "name": "Field Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Agaricus_campestris.jpg/500px-Agaricus_campestris.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agaricus_campestris",
+    "genus_name": "Agaricus",
+    "specific_name": "campestris",
+    "book_name": "Agaricus campestris",
+    "edibility": "e",
+    "edibility_notes": "Excellent. Can be eaten raw but see below."
+  },
+  {
+    "name": "Cultivated Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/ChampignonMushroom.jpg/500px-ChampignonMushroom.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agaricus_bisporus",
+    "genus_name": "Agaricus",
+    "specific_name": "bisporus",
+    "book_name": "Agaricus bisporus",
+    "edibility": "e",
+    "edibility_notes": "Can be eaten raw. Older ones have more flavour."
+  },
+  {
+    "name": "Horse Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pieczarka_polowa_vongrzanka.JPG/500px-Pieczarka_polowa_vongrzanka.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agaricus_arvensis",
+    "genus_name": "Agaricus",
+    "specific_name": "arvensis",
+    "book_name": "Agaricus arvensis",
+    "edibility": "e",
+    "edibility_notes": "Excellent flavour and texture but often mistaken for Yellow-staining Mushroom."
+  },
+  {
+    "name": "Yellow-staining Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Agaricus_xanthodermus_section.jpg/500px-Agaricus_xanthodermus_section.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Agaricus_xanthodermus",
+    "genus_name": "Agaricus",
+    "specific_name": "xanthodermus",
+    "book_name": "Agaricus xanthodermus",
+    "edibility": "p",
+    "edibility_notes": "Many are unaffected but best avoided."
+  },
+  {
+    "name": "Bleeding Brown Mushroom",
+    "image_link": "https://www.mushroomexpert.com/images/nadon/nadon_agaricus_haemorrhoidarius_01_thumb.jpg",
+    "wikipedia_link": "https://www.mushroomexpert.com/agaricus_haemorrhoidarius.html",
+    "genus_name": "Agaricus",
+    "specific_name": "haemorrhoidarius",
+    "book_name": "Agaricus haemorrhoidarius",
+    "edibility": "e",
+    "edibility_notes": "Good to eat despite the ‘bleeding flesh’."
+  },
+  {
+    "name": "Shaggy Ink Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Coprinus_comatus%2C_the_shaggy_ink_cap%2C_lawyer%27s_wig%2C_or_shaggy_mane_mushroom.jpg/500px-Coprinus_comatus%2C_the_shaggy_ink_cap%2C_lawyer%27s_wig%2C_or_shaggy_mane_mushroom.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coprinus_comatus",
+    "genus_name": "Coprinus",
+    "specific_name": "comatus",
+    "book_name": "Coprinus comatus",
+    "edibility": "e",
+    "edibility_notes": "Must be eaten young. Good salty flavour."
+  },
+  {
+    "name": "Common Ink Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Coprinopsis_atramentaria_3_-_Lindsey.jpg/500px-Coprinopsis_atramentaria_3_-_Lindsey.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coprinopsis_atramentaria",
+    "genus_name": "Coprinopsis",
+    "specific_name": "atramentaria",
+    "book_name": "Coprinus atramentarius",
+    "edibility": "p",
+    "edibility_notes": "It reacts with alcohol in the bloodstream causing nausea and hot flushes."
+  },
+  {
+    "name": "Magpie Ink Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Coprinopsis_picacea_2024_G1.jpg/500px-Coprinopsis_picacea_2024_G1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coprinopsis_picacea",
+    "genus_name": "Coprinopsis",
+    "specific_name": "picacea",
+    "book_name": "Coprinus picaceus",
+    "edibility": "i",
+    "edibility_notes": "Unpleasant smell. Possibly poisonous."
+  },
+  {
+    "name": "Rusty Carpet Ink Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Coprinellus_domesticus_%28Bolton%29_Vilgalys%2C_Hopple_%26_Johnson.jpg/500px-Coprinellus_domesticus_%28Bolton%29_Vilgalys%2C_Hopple_%26_Johnson.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coprinellus_domesticus",
+    "genus_name": "Coprinellus",
+    "specific_name": "domesticus",
+    "book_name": "Coprinus domesticus",
+    "edibility": "i",
+    "edibility_notes": "Not worth eating."
+  },
+  {
+    "name": "Glistening Ink Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Coprinellus_micaceus_Glimmer-Tintling.jpg/500px-Coprinellus_micaceus_Glimmer-Tintling.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coprinellus_micaceus",
+    "genus_name": "Coprinellus",
+    "specific_name": "micaceus",
+    "book_name": "Coprinus micaceus",
+    "edibility": "e",
+    "edibility_notes": "Hardly worthwhile, poor flavour and texture."
+  },
+  {
+    "name": "Fairies’ Bonnets",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Coprinellus_disseminatus_group.jpg/500px-Coprinellus_disseminatus_group.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coprinellus_disseminatus",
+    "genus_name": "Coprinellus",
+    "specific_name": "disseminatus",
+    "book_name": "Coprinus disseminatus",
+    "edibility": "e",
+    "edibility_notes": "Too insubstantial to be worthwhile."
+  },
+  {
+    "name": "Fairy Parasol",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Parasola_spec._-_Lindsey_2a.jpg/500px-Parasola_spec._-_Lindsey_2a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Parasola_plicatilis",
+    "genus_name": "Parasola",
+    "specific_name": "plicatilis",
+    "book_name": "Coprinus plicatilis",
+    "edibility": "e",
+    "edibility_notes": "Far too insubstantial to be worth collecting."
+  },
+  {
+    "name": "Common Crumble Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Psathyrella_candolleana_060801wa.jpg/500px-Psathyrella_candolleana_060801wa.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Candolleomyces_candolleanus",
+    "genus_name": "Candolleomyces",
+    "specific_name": "candolleanus",
+    "book_name": "Psathyrella candolleana",
+    "edibility": "e",
+    "edibility_notes": "Said to be edible if cooked but not worthwhile."
+  },
+  {
+    "name": "Two-toned Crumble Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Psathyrella_piluliformis%2C_Common_Stump_Brittlestem.jpg/500px-Psathyrella_piluliformis%2C_Common_Stump_Brittlestem.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Psathyrella_piluliformis",
+    "genus_name": "Psathyrella",
+    "specific_name": "piluliformis",
+    "book_name": "Psathyrella hydrophila",
+    "edibility": "e",
+    "edibility_notes": "Not recommended due to bitter taste."
+  },
+  {
+    "name": "Hay Cap",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Panaeolus_foenisecii_Cupertino.jpg/500px-Panaeolus_foenisecii_Cupertino.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Panaeolus_foenisecii",
+    "genus_name": "Panaeolus",
+    "specific_name": "foenisecii",
+    "book_name": "Panaeolus foenisecii",
+    "edibility": "p",
+    "edibility_notes": "May produce hallucinations."
+  },
+  {
+    "name": "Petticoat Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Panaeolus_papilionaceus_California.jpg/500px-Panaeolus_papilionaceus_California.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Panaeolus_papilionaceus",
+    "genus_name": "Panaeolus",
+    "specific_name": "papilionaceus",
+    "book_name": "Panaeolus sphinctrinus",
+    "edibility": "p",
+    "edibility_notes": "May produce hallucinations."
+  },
+  {
+    "name": "Egg-shell Toadstool",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Panaeolus_semiovatus_LC0334.jpg/500px-Panaeolus_semiovatus_LC0334.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Panaeolus_semiovatus_var._semiovatus",
+    "genus_name": "Panaeolus",
+    "specific_name": "semiovatus",
+    "book_name": "Panaeolus semiovatus",
+    "edibility": "i",
+    "edibility_notes": "|ts dung habitat makes it unsuitable for eating."
+  },
+  {
+    "name": "Weeping Widow",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Lacrymaria_lacrymabunda_%28Bull.%29_Pat_173183_crop.jpg/500px-Lacrymaria_lacrymabunda_%28Bull.%29_Pat_173183_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lacrymaria_lacrymabunda",
+    "genus_name": "Lacrymaria",
+    "specific_name": "lacrymabunda",
+    "book_name": "Lacrymaria velutina",
+    "edibility": "p",
+    "edibility_notes": "Firm-fleshed if a little bitter."
+  },
+  {
+    "name": "Cep",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Boletus_edulis_IT.jpg/500px-Boletus_edulis_IT.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Boletus_edulis",
+    "genus_name": "Boletus",
+    "specific_name": "edulis",
+    "book_name": "Boletus edulis",
+    "edibility": "e",
+    "edibility_notes": "Young ones can be pickled. Old ones dry well."
+  },
+  {
+    "name": "Bay Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Boletus_badius_JPG1.jpg/500px-Boletus_badius_JPG1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Imleria_badia",
+    "genus_name": "Imleria",
+    "specific_name": "badia",
+    "book_name": "Boletus badius",
+    "edibility": "e",
+    "edibility_notes": "Excellent and firm-fleshed when young. Pleasant mushroomy taste. Rarely maggot-infested. Dries well."
+  },
+  {
+    "name": "Red-cracked Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Xerocomellus_chrysenteron28.jpg/500px-Xerocomellus_chrysenteron28.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Xerocomellus_chrysenteron",
+    "genus_name": "Xerocomellus",
+    "specific_name": "chrysenteron",
+    "book_name": "Boletus chrysenteron",
+    "edibility": "e",
+    "edibility_notes": "Not recommended due to its soggy texture."
+  },
+  {
+    "name": "Yellow-cracked Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Ziegenlippe_Xerocomus_subtomentosus.jpg/500px-Ziegenlippe_Xerocomus_subtomentosus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Xerocomus_subtomentosus",
+    "genus_name": "Xerocomus",
+    "specific_name": "subtomentosus",
+    "book_name": "Boletus subzomentosus",
+    "edibility": "e",
+    "edibility_notes": "Not recommended due to its poor flavour and a soggy texture."
+  },
+  {
+    "name": "Dotted-stemmed Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Boletus_erythropus_2010_G3.jpg/500px-Boletus_erythropus_2010_G3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Neoboletus_luridiformis",
+    "genus_name": "Neoboletus",
+    "specific_name": "luridiformis",
+    "book_name": "Boletus erythropus",
+    "edibility": "p",
+    "edibility_notes": "Causes stomach upset especially when raw."
+  },
+  {
+    "name": "Lurid Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg/500px-2010-09-13_Boletus_luridus_Schaeff_104527_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suillellus_luridus",
+    "genus_name": "Suillellus",
+    "specific_name": "luridus",
+    "book_name": "Boletus luridus",
+    "edibility": "p",
+    "edibility_notes": "Causes digestive upset and produces unpleasant symptoms with alcohol."
+  },
+  {
+    "name": "Parasitic Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Boletus_parasiticus_on_Scleroderma_citrinum.jpg/500px-Boletus_parasiticus_on_Scleroderma_citrinum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pseudoboletus_parasiticus",
+    "genus_name": "Pseudoboletus",
+    "specific_name": "parasiticus",
+    "book_name": "Boletus parasiticus",
+    "edibility": "e",
+    "edibility_notes": "Not recommended as it is quite rare."
+  },
+  {
+    "name": "Bitter Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2006-09-14_Tylopilus_felleus_crop.jpg/500px-2006-09-14_Tylopilus_felleus_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tylopilus_felleus",
+    "genus_name": "Tylopilus",
+    "specific_name": "felleus",
+    "book_name": "Tylopilus felleus",
+    "edibility": "i",
+    "edibility_notes": "Extremely bitter taste."
+  },
+  {
+    "name": "Peppery Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Chalciporus_piperatus_LC0182.jpg/500px-Chalciporus_piperatus_LC0182.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chalciporus_piperatus",
+    "genus_name": "Chalciporus",
+    "specific_name": "piperatus",
+    "book_name": "Chalciporus piperatus",
+    "edibility": "e",
+    "edibility_notes": "Used to add flavour but is very peppery."
+  },
+  {
+    "name": "Orange Birch Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Leccinum_versipelle_LC0366.jpg/500px-Leccinum_versipelle_LC0366.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Leccinum_versipelle",
+    "genus_name": "Leccinum",
+    "specific_name": "versipelle",
+    "book_name": "Leceinum versipelle",
+    "edibility": "e",
+    "edibility_notes": "Caps make good eating; discard the stems."
+  },
+  {
+    "name": "Brown Birch Bolete",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/85/Birkenpilz01.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Leccinum_scabrum",
+    "genus_name": "Leccinum",
+    "specific_name": "scabrum",
+    "book_name": "Leccinum scabrum",
+    "edibility": "e",
+    "edibility_notes": "Soggy. Only young caps are worth eating."
+  },
+  {
+    "name": "Larch Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Suill.grev.jpg/500px-Suill.grev.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suillus_grevillei",
+    "genus_name": "Suillus",
+    "specific_name": "grevillei",
+    "book_name": "Suillus grevillei",
+    "edibility": "e",
+    "edibility_notes": "Remove slimy cap skin. Best in soups."
+  },
+  {
+    "name": "Slippery Jack",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Suillus_luteus_475376.jpg/500px-Suillus_luteus_475376.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suillus_luteus",
+    "genus_name": "Suillus",
+    "specific_name": "luteus",
+    "book_name": "Suillus luteus",
+    "edibility": "e",
+    "edibility_notes": "Remove slimy skin. Lacks flavour."
+  },
+  {
+    "name": "Bovine Bolete",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Suillus_bovinus_2011_10_07.jpg/500px-Suillus_bovinus_2011_10_07.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Suillus_bovinus",
+    "genus_name": "Suillus",
+    "specific_name": "bovinus",
+    "book_name": "Suillus bovinus",
+    "edibility": "e",
+    "edibility_notes": "Poor flavour and rubbery texture."
+  },
+  {
+    "name": "Brown Roll-rim",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Navadne_podvihanke_%28Paxillus_involutus%29.jpg/500px-Navadne_podvihanke_%28Paxillus_involutus%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Paxillus_involutus",
+    "genus_name": "Paxillus",
+    "specific_name": "involutus",
+    "book_name": "Paxillus involutus",
+    "edibility": "p",
+    "edibility_notes": "Causes sickness and more serious illness."
+  },
+  {
+    "name": "Velvet Roll-rim",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Samtfu%C3%9F-Holzkrempling_Tapinella_atrotomentosa.jpg/500px-Samtfu%C3%9F-Holzkrempling_Tapinella_atrotomentosa.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tapinella_atrotomentosa",
+    "genus_name": "Tapinella",
+    "specific_name": "atrotomentosa",
+    "book_name": "Paxillus atromentosus",
+    "edibility": "p",
+    "edibility_notes": "Bitter and similar to Brown Roll-rim."
+  },
+  {
+    "name": "False Chanterelle",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hygrophoropsis_aurantiaca_241718.jpg/500px-Hygrophoropsis_aurantiaca_241718.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hygrophoropsis_aurantiaca",
+    "genus_name": "Hygrophoropsis",
+    "specific_name": "aurantiaca",
+    "book_name": "Hygrophoropsis aurantiaca",
+    "edibility": "p",
+    "edibility_notes": "A minority suffer from sickness and hallucinations"
+  },
+  {
+    "name": "Chanterelle",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Chanterelle_Cantharellus_cibarius.jpg/500px-Chanterelle_Cantharellus_cibarius.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cantharellus_cibarius",
+    "genus_name": "Cantharellus",
+    "specific_name": "cibarius",
+    "book_name": "Canthaellus cibarus",
+    "edibility": "e",
+    "edibility_notes": "Mildly peppery taste goes well with egg dishes. Can be eaten raw. Small ones pickle well."
+  },
+  {
+    "name": "Tubed Chanterelle",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Craterellus_tubaeformis_1345904803_69350246bb_o.jpg/500px-Craterellus_tubaeformis_1345904803_69350246bb_o.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Craterellus_tubaeformis",
+    "genus_name": "Craterellus",
+    "specific_name": "tubaeformis",
+    "book_name": "Cantharells tubaeformis",
+    "edibility": "e",
+    "edibility_notes": "A poorer version of Chanterelle."
+  },
+  {
+    "name": "Horn of Plenty",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Craterellus_cornucopioides_JPG1.jpg/500px-Craterellus_cornucopioides_JPG1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Craterellus_cornucopioides",
+    "genus_name": "Craterellus",
+    "specific_name": "cornucopioides",
+    "book_name": "Craterellus cornucopoides",
+    "edibility": "e",
+    "edibility_notes": "A favourite in restaurants where it is served stuffed, but it is leathery and best used dried to add a rich flavour to soups and stews."
+  },
+  {
+    "name": "Oyster Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pleurotus_ostreatus_JPG7.jpg/500px-Pleurotus_ostreatus_JPG7.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pleurotus_ostreatus",
+    "genus_name": "Pleurotus",
+    "specific_name": "ostreatus",
+    "book_name": "Pleurotus ostreatus",
+    "edibility": "e",
+    "edibility_notes": "Good flavour and firm-fleshed. Cut out stem area."
+  },
+  {
+    "name": "Branched Oyster Mushroom",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2011-06-30_Pleurotus_cornucopiae_3_70824.jpg/500px-2011-06-30_Pleurotus_cornucopiae_3_70824.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pleurotus_cornucopiae",
+    "genus_name": "Pleurotus",
+    "specific_name": "cornucopiae",
+    "book_name": "Pleurotus cornucopiae",
+    "edibility": "e",
+    "edibility_notes": "Tougher and less tasty than Oyster Mushroom."
+  },
+  {
+    "name": "Olive Oysterling",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2012-10-16_Sarcomyxa_serotina_%28Pers.%29_P._Karst_272414.jpg/500px-2012-10-16_Sarcomyxa_serotina_%28Pers.%29_P._Karst_272414.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sarcomyxa_serotina",
+    "genus_name": "Sarcomyxa",
+    "specific_name": "serotina",
+    "book_name": "Paneltus serotinus",
+    "edibility": "i",
+    "edibility_notes": "Slimy cap may cause digestive upset."
+  },
+  {
+    "name": "Soft Slipper Toadstool",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Crepidotus_spec._-_Lindsey_3a.jpg/500px-Crepidotus_spec._-_Lindsey_3a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Crepidotus_mollis",
+    "genus_name": "Crepidotus",
+    "specific_name": "mollis",
+    "book_name": "Crepidonus mollis",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial and slimy textured."
+  },
+  {
+    "name": "Orange Clubs",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Yellow_Club_%28Clavulinopsis_helvola%29_%2815712998359%29.jpg/500px-Yellow_Club_%28Clavulinopsis_helvola%29_%2815712998359%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clavulinopsis_helvola",
+    "genus_name": "Clavulinopsis",
+    "specific_name": "helveola",
+    "book_name": "Clavulinopsis helvola",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial with a bitter taste."
+  },
+  {
+    "name": "Crested Coral Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Clavulina_cristata_sasata.JPG/500px-Clavulina_cristata_sasata.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clavulina_cristata",
+    "genus_name": "Clavulina",
+    "specific_name": "cristata",
+    "book_name": "Clavulina cristata",
+    "edibility": "e",
+    "edibility_notes": "Not recommended as often infected with mould."
+  },
+  {
+    "name": "Grey Coral Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Clavulina_cinerea_01.JPG/500px-Clavulina_cinerea_01.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clavulina_cinerea",
+    "genus_name": "Clavulina",
+    "specific_name": "cinerea",
+    "book_name": "Clava cinerea",
+    "edibility": "e",
+    "edibility_notes": "Insubstantial and not recommended."
+  },
+  {
+    "name": "Cauliflower Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Grote_sponszwam_%28Sparassis_crispa%29._09-11-2023._%28d.j.b%29.jpg/500px-Grote_sponszwam_%28Sparassis_crispa%29._09-11-2023._%28d.j.b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Sparassis_crispa",
+    "genus_name": "Sparassis",
+    "specific_name": "crispa",
+    "book_name": "Sparassis crispa",
+    "edibility": "e",
+    "edibility_notes": "Young, well-washed specimens have a marvellous taste and texture. Must not be eaten when old."
+  },
+  {
+    "name": "Hedgehog Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Hedgehog_fungi2.jpg/500px-Hedgehog_fungi2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hydnum_repandum",
+    "genus_name": "Hydnum",
+    "specific_name": "repandum",
+    "book_name": "Hydnum repandum",
+    "edibility": "e",
+    "edibility_notes": "Slightly bitter when raw but excellent after cooking, with a firm texture."
+  },
+  {
+    "name": "Ear-pick Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Auriscalpium_vulgare_129877.jpg/500px-Auriscalpium_vulgare_129877.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Auriscalpium_vulgare",
+    "genus_name": "Auriscalpium",
+    "specific_name": "vulgare",
+    "book_name": "Auriscalpium vulgare",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial and tough."
+  },
+  {
+    "name": "Hairy Stereum",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Stereum_hirsutum_Aberystwyth_2024.jpg/500px-Stereum_hirsutum_Aberystwyth_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Stereum_hirsutum",
+    "genus_name": "Stereum",
+    "specific_name": "hirsutum",
+    "book_name": "Stereum hirsutum",
+    "edibility": "i",
+    "edibility_notes": "Tough and leathery"
+  },
+  {
+    "name": "Silver Leaf Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Chondrostereum_purpureum_051120A.jpg/500px-Chondrostereum_purpureum_051120A.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chondrostereum_purpureum",
+    "genus_name": "Chondrostereum",
+    "specific_name": "purpureum",
+    "book_name": "Chondrostereum purpureum",
+    "edibility": "i",
+    "edibility_notes": "Very tough."
+  },
+  {
+    "name": "Dryad’s Saddle",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Polyporus_squamosus_Molter.jpg/500px-Polyporus_squamosus_Molter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cerioporus_squamosus",
+    "genus_name": "Cerioporus",
+    "specific_name": "squamosus",
+    "book_name": "Polyporus squamosus",
+    "edibility": "e",
+    "edibility_notes": "Edges of young caps are the most tender."
+  },
+  {
+    "name": "Fuzzy Polypore",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Phaeolus_schweinitzii_433858897.jpg/500px-Phaeolus_schweinitzii_433858897.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Phaeolus_schweinitzii",
+    "genus_name": "Phaeolus",
+    "specific_name": "schweinitzii",
+    "book_name": "Phaeolus schweinitzii",
+    "edibility": "i",
+    "edibility_notes": "Often encrusts old pine needles."
+  },
+  {
+    "name": "Tiger's Eye",
+    "image_link": "https://www.first-nature.com/fungi/images/polyporaceae/coltricia-perennis7.jpg",
+    "wikipedia_link": "https://www.first-nature.com/fungi/coltricia-perennis.php",
+    "genus_name": "Coltricia",
+    "specific_name": "perennis",
+    "book_name": "Coltricia perennis",
+    "edibility": "i",
+    "edibility_notes": "However, it is used in floral decorations."
+  },
+  {
+    "name": "White Saddle",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/0_Helvella_crispa_-_Havr%C3%A9_%281%29.JPG/500px-0_Helvella_crispa_-_Havr%C3%A9_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Helvella_crispa",
+    "genus_name": "Helvella",
+    "specific_name": "crispa",
+    "book_name": "Halvella crispa",
+    "edibility": "p",
+    "edibility_notes": "Can cause gastric upset, especially if eaten raw."
+  },
+  {
+    "name": "Fluted Black Elfin Saddle",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Helvella_lacunosa_%28south_BC%29.jpg/500px-Helvella_lacunosa_%28south_BC%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Helvella_lacunosa",
+    "genus_name": "Helvella",
+    "specific_name": "lacunosa",
+    "book_name": "Helvella lacunosa",
+    "edibility": "p",
+    "edibility_notes": "Can cause gastric upset so best avoided."
+  },
+  {
+    "name": "Turban Fungus",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Fr%C3%BChjahrslorchel.JPG/500px-Fr%C3%BChjahrslorchel.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gyromitra_esculenta",
+    "genus_name": "Gyromitra",
+    "specific_name": "esculenta",
+    "book_name": "Gyromitra esculenta",
+    "edibility": "p",
+    "edibility_notes": "Can be fatal and even when consumed after careful preparation. Is suspected of causing cancer."
+  },
+  {
+    "name": "Common Morel",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Morchella_esculenta_-_DE_-_TH_-_2013-05-01_-_01.JPG/500px-Morchella_esculenta_-_DE_-_TH_-_2013-05-01_-_01.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Morchella_esculenta",
+    "genus_name": "Morchella",
+    "specific_name": "esculenta",
+    "book_name": "Morchella esculenta",
+    "edibility": "e",
+    "edibility_notes": "Wonderful flavour and texture. Dries well."
+  },
+  {
+    "name": "Jelly Babies",
+    "image_link": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gr%C3%BCngelbes_Gallertk%C3%A4ppchen_Leotia_lubrica.JPG/500px-Gr%C3%BCngelbes_Gallertk%C3%A4ppchen_Leotia_lubrica.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Leotia_lubrica",
+    "genus_name": "Leotia",
+    "specific_name": "lubrica",
+    "book_name": "Leotia lubrica",
+    "edibility": "i",
+    "edibility_notes": "Insubstantial"
+  }
+]
