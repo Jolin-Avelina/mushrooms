@@ -32,6 +32,35 @@
 
 
                         <p class="card-text">{{ $mushroom->edibility_notes}}</p>
+                        <a href="/mushrooms/{{ $mushroom->id }}" class="btn btn-primary">More info</a>
+                        <!-- <p class="card-text">
+                        <ul>
+                            @foreach ($mushroom->season as $season)
+                                @if ($season == 's')
+                                    <li>Spring</li>
+                                @endif
+                                @if ($season == 'u')
+                                    <li>Summer</li>
+                                @endif
+                                @if ($season == 'a')
+                                    <li>Autumn</li>
+                                @endif
+                                @if ($season == 'w')
+                                    <li>Winter</li>
+                                @endif
+                            @endforeach
+                        </ul>
+                        </p> -->
+
+                        <!-- @if ($mushroom->enrichable)
+                            <p class="card-text">
+                                Enrichable
+                            </p>
+                        @endif
+                        @foreach ($mushroom->cap->cap_color as $cap_color)
+                        <p>{{ $cap_color }}</p>
+                        @endforeach -->
+
                     </div>
                 </div>
 

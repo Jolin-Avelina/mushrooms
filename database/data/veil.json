@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "1",
+    "mushroom_id": "1",
+    "name": "Fly Agaric",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "2",
+    "mushroom_id": "2",
+    "name": "Panther Cap",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "3",
+    "mushroom_id": "3",
+    "name": "False Panther Cap",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "4",
+    "mushroom_id": "4",
+    "name": "The Blusher",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "5",
+    "mushroom_id": "5",
+    "name": "Death Cap",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "6",
+    "mushroom_id": "6",
+    "name": "False Death Cap",
+    "veil_type": "u",
+    "veil_color": "[\"y\"]"
+  },
+  {
+    "id": "7",
+    "mushroom_id": "7",
+    "name": "Destroying Angel",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "8",
+    "mushroom_id": "8",
+    "name": "Tawny Grisette",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "9",
+    "mushroom_id": "9",
+    "name": "Parasol Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "10",
+    "mushroom_id": "10",
+    "name": "Shaggy Parasol",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "11",
+    "mushroom_id": "11",
+    "name": "Stinking Parasol",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "12",
+    "mushroom_id": "12",
+    "name": "Saffron Parasol",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "13",
+    "mushroom_id": "13",
+    "name": "The Deceiver",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "14",
+    "mushroom_id": "14",
+    "name": "Amethyst Deceiver",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "15",
+    "mushroom_id": "15",
+    "name": "Wood Blewit",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "16",
+    "mushroom_id": "16",
+    "name": "Field Blewit",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "17",
+    "mushroom_id": "17",
+    "name": "Clouded Agaric",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "18",
+    "mushroom_id": "18",
+    "name": "Club-footed Funnel Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "19",
+    "mushroom_id": "19",
+    "name": "Common Funnel Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "20",
+    "mushroom_id": "20",
+    "name": "Aniseed Funnel Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "21",
+    "mushroom_id": "21",
+    "name": "Ivory Clitocybe",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "22",
+    "mushroom_id": "22",
+    "name": "Wood Woolly-foot",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "23",
+    "mushroom_id": "23",
+    "name": "Russet Tough Shank",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "24",
+    "mushroom_id": "24",
+    "name": "Clustered Tough Shank",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "25",
+    "mushroom_id": "25",
+    "name": "Greasy Tough Shank",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "26",
+    "mushroom_id": "26",
+    "name": "Spotted Tough Shank",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "27",
+    "mushroom_id": "27",
+    "name": "Fairy Ring Champignon",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "28",
+    "mushroom_id": "28",
+    "name": "Little Wheel Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "29",
+    "mushroom_id": "29",
+    "name": "Horse-hair Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "30",
+    "mushroom_id": "30",
+    "name": "Bonnet Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "31",
+    "mushroom_id": "31",
+    "name": "Stump Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "32",
+    "mushroom_id": "32",
+    "name": "Tufted Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "33",
+    "mushroom_id": "33",
+    "name": "Milky Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "34",
+    "mushroom_id": "34",
+    "name": "Small Bleeding Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "35",
+    "mushroom_id": "35",
+    "name": "Lilac Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "36",
+    "mushroom_id": "36",
+    "name": "Yellow-stemmed Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "37",
+    "mushroom_id": "37",
+    "name": "Orange Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "38",
+    "mushroom_id": "38",
+    "name": "Orange Moss Agaric",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "39",
+    "mushroom_id": "39",
+    "name": "Umbrella Navel Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "40",
+    "mushroom_id": "40",
+    "name": "Rooting Shank",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "41",
+    "mushroom_id": "41",
+    "name": "Porcelain Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "42",
+    "mushroom_id": "42",
+    "name": "Velvet Shank",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "43",
+    "mushroom_id": "43",
+    "name": "Honey Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "44",
+    "mushroom_id": "44",
+    "name": "Bulbous Honey Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "45",
+    "mushroom_id": "45",
+    "name": "Soap-scented Tricholoma",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "46",
+    "mushroom_id": "46",
+    "name": "Grey Tricholoma",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "47",
+    "mushroom_id": "47",
+    "name": "Scaly Tricholoma",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "48",
+    "mushroom_id": "48",
+    "name": "Yellow-brown Tricholoma",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "49",
+    "mushroom_id": "49",
+    "name": "Sulphur Tricholoma",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "50",
+    "mushroom_id": "50",
+    "name": "St George’s Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "51",
+    "mushroom_id": "51",
+    "name": "Clustered Brown Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "52",
+    "mushroom_id": "52",
+    "name": "Changeable Melanoleuca",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "53",
+    "mushroom_id": "53",
+    "name": "Plums and custard",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "54",
+    "mushroom_id": "54",
+    "name": "Ivory Wax Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "55",
+    "mushroom_id": "55",
+    "name": "Yellow Wax cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "56",
+    "mushroom_id": "56",
+    "name": "Orange-red Wax Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "57",
+    "mushroom_id": "57",
+    "name": "Blackening Wax Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "58",
+    "mushroom_id": "58",
+    "name": "Meadow Wax Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "59",
+    "mushroom_id": "59",
+    "name": "Scarlet Hood",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "60",
+    "mushroom_id": "60",
+    "name": "Parrot Wax Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "61",
+    "mushroom_id": "61",
+    "name": "Herald of Winter",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "62",
+    "mushroom_id": "62",
+    "name": "Common Yellow Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "63",
+    "mushroom_id": "63",
+    "name": "Yellow-gilled Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "64",
+    "mushroom_id": "64",
+    "name": "Yellow Swamp Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "65",
+    "mushroom_id": "65",
+    "name": "Geranium-scented Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "66",
+    "mushroom_id": "66",
+    "name": "Stinking Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "67",
+    "mushroom_id": "67",
+    "name": "Fragile Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "68",
+    "mushroom_id": "68",
+    "name": "Birch Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "69",
+    "mushroom_id": "69",
+    "name": "Bare-toothed Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "70",
+    "mushroom_id": "70",
+    "name": "The Charcoal Burner",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "71",
+    "mushroom_id": "71",
+    "name": "Blackish Purple Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "72",
+    "mushroom_id": "72",
+    "name": "Blackening Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "73",
+    "mushroom_id": "73",
+    "name": "The Sickener",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "74",
+    "mushroom_id": "74",
+    "name": "Beechwood Sickener",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "75",
+    "mushroom_id": "75",
+    "name": "Crab-scented Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "76",
+    "mushroom_id": "76",
+    "name": "Grass-green Russula",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "77",
+    "mushroom_id": "77",
+    "name": "Peppery Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "78",
+    "mushroom_id": "78",
+    "name": "Fleecy Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "79",
+    "mushroom_id": "79",
+    "name": "Oak Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "80",
+    "mushroom_id": "80",
+    "name": "Slimy Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "81",
+    "mushroom_id": "81",
+    "name": "Ugly Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "82",
+    "mushroom_id": "82",
+    "name": "Rufous Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "83",
+    "mushroom_id": "83",
+    "name": "Sweet Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "84",
+    "mushroom_id": "84",
+    "name": "Small Brown Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "85",
+    "mushroom_id": "85",
+    "name": "Coconut-scented Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "86",
+    "mushroom_id": "86",
+    "name": "Woolly Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "87",
+    "mushroom_id": "87",
+    "name": "Saffron Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "88",
+    "mushroom_id": "88",
+    "name": "Spruce Milk Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "89",
+    "mushroom_id": "89",
+    "name": "Fawn Pluteus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "90",
+    "mushroom_id": "90",
+    "name": "Veined Pluteus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "91",
+    "mushroom_id": "91",
+    "name": "Silky Nolanea",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "92",
+    "mushroom_id": "92",
+    "name": "Striated Nolanea",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "93",
+    "mushroom_id": "93",
+    "name": "White Leptonia",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "94",
+    "mushroom_id": "94",
+    "name": "Crow Pinkgill",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "95",
+    "mushroom_id": "95",
+    "name": "Livid Entoloma",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "96",
+    "mushroom_id": "96",
+    "name": "The Miller",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "97",
+    "mushroom_id": "97",
+    "name": "Apricot Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "98",
+    "mushroom_id": "98",
+    "name": "Egg Yolk Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "99",
+    "mushroom_id": "99",
+    "name": "Brown Bell Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "100",
+    "mushroom_id": "100",
+    "name": "Spring Agaric",
+    "veil_type": "?",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "101",
+    "mushroom_id": "101",
+    "name": "Shaggy Pholiota",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "102",
+    "mushroom_id": "102",
+    "name": "Charcoal Pholiota",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "103",
+    "mushroom_id": "103",
+    "name": "Brown Stew Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "104",
+    "mushroom_id": "104",
+    "name": "Sulphur Tuft",
+    "veil_type": "u",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "105",
+    "mushroom_id": "105",
+    "name": "Brick Caps",
+    "veil_type": "?",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "106",
+    "mushroom_id": "106",
+    "name": "Verdigris Toadstool",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "107",
+    "mushroom_id": "107",
+    "name": "Dung Roundhead",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "108",
+    "mushroom_id": "108",
+    "name": "Magic Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "109",
+    "mushroom_id": "109",
+    "name": "Red-banded Cortinarius",
+    "veil_type": "?",
+    "veil_color": "[\"e\",\"n\"]"
+  },
+  {
+    "id": "110",
+    "mushroom_id": "110",
+    "name": "Purple Cortinarius",
+    "veil_type": "?",
+    "veil_color": "[\"u\"]"
+  },
+  {
+    "id": "111",
+    "mushroom_id": "111",
+    "name": "Blood-red Cortinarius",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "112",
+    "mushroom_id": "112",
+    "name": "Red-staining Inocybe",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "113",
+    "mushroom_id": "113",
+    "name": "Straw-coloured Inocybe",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "114",
+    "mushroom_id": "114",
+    "name": "Common White Inocybe",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "115",
+    "mushroom_id": "115",
+    "name": "Poison Pie",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "116",
+    "mushroom_id": "116",
+    "name": "Dark-centred Hebeloma",
+    "veil_type": "?",
+    "veil_color": "[\"n\"]"
+  },
+  {
+    "id": "117",
+    "mushroom_id": "117",
+    "name": "Rusty Wood Rotter",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "118",
+    "mushroom_id": "118",
+    "name": "Spectacular Gymnopile",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "119",
+    "mushroom_id": "119",
+    "name": "Moss Pixy Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "120",
+    "mushroom_id": "120",
+    "name": "Field Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "121",
+    "mushroom_id": "121",
+    "name": "Cultivated Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "122",
+    "mushroom_id": "122",
+    "name": "Horse Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "123",
+    "mushroom_id": "123",
+    "name": "Yellow-staining Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "124",
+    "mushroom_id": "124",
+    "name": "Bleeding Brown Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "125",
+    "mushroom_id": "125",
+    "name": "Shaggy Ink Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "126",
+    "mushroom_id": "126",
+    "name": "Common Ink Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "127",
+    "mushroom_id": "127",
+    "name": "Magpie Ink Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "128",
+    "mushroom_id": "128",
+    "name": "Rusty Carpet Ink Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "129",
+    "mushroom_id": "129",
+    "name": "Glistening Ink Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "130",
+    "mushroom_id": "130",
+    "name": "Fairies’ Bonnets",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "131",
+    "mushroom_id": "131",
+    "name": "Fairy Parasol",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "132",
+    "mushroom_id": "132",
+    "name": "Common Crumble Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "133",
+    "mushroom_id": "133",
+    "name": "Two-toned Crumble Cap",
+    "veil_type": "?",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "134",
+    "mushroom_id": "134",
+    "name": "Hay Cap",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "135",
+    "mushroom_id": "135",
+    "name": "Petticoat Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "136",
+    "mushroom_id": "136",
+    "name": "Egg-shell Toadstool",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "137",
+    "mushroom_id": "137",
+    "name": "Weeping Widow",
+    "veil_type": "?",
+    "veil_color": "[\"k\"]"
+  },
+  {
+    "id": "138",
+    "mushroom_id": "138",
+    "name": "Cep",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "139",
+    "mushroom_id": "139",
+    "name": "Bay Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "140",
+    "mushroom_id": "140",
+    "name": "Red-cracked Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "141",
+    "mushroom_id": "141",
+    "name": "Yellow-cracked Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "142",
+    "mushroom_id": "142",
+    "name": "Dotted-stemmed Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "143",
+    "mushroom_id": "143",
+    "name": "Lurid Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "144",
+    "mushroom_id": "144",
+    "name": "Parasitic Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "145",
+    "mushroom_id": "145",
+    "name": "Bitter Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "146",
+    "mushroom_id": "146",
+    "name": "Peppery Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "147",
+    "mushroom_id": "147",
+    "name": "Orange Birch Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "148",
+    "mushroom_id": "148",
+    "name": "Brown Birch Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "149",
+    "mushroom_id": "149",
+    "name": "Larch Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"y\"]"
+  },
+  {
+    "id": "150",
+    "mushroom_id": "150",
+    "name": "Slippery Jack",
+    "veil_type": "?",
+    "veil_color": "[\"w\"]"
+  },
+  {
+    "id": "151",
+    "mushroom_id": "151",
+    "name": "Bovine Bolete",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "152",
+    "mushroom_id": "152",
+    "name": "Brown Roll-rim",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "153",
+    "mushroom_id": "153",
+    "name": "Velvet Roll-rim",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "154",
+    "mushroom_id": "154",
+    "name": "False Chanterelle",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "155",
+    "mushroom_id": "155",
+    "name": "Chanterelle",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "156",
+    "mushroom_id": "156",
+    "name": "Tubed Chanterelle",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "157",
+    "mushroom_id": "157",
+    "name": "Horn of Plenty",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "158",
+    "mushroom_id": "158",
+    "name": "Oyster Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "159",
+    "mushroom_id": "159",
+    "name": "Branched Oyster Mushroom",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "160",
+    "mushroom_id": "160",
+    "name": "Olive Oysterling",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "161",
+    "mushroom_id": "161",
+    "name": "Soft Slipper Toadstool",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "162",
+    "mushroom_id": "162",
+    "name": "Orange Clubs",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "163",
+    "mushroom_id": "163",
+    "name": "Crested Coral Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "164",
+    "mushroom_id": "164",
+    "name": "Grey Coral Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "165",
+    "mushroom_id": "165",
+    "name": "Cauliflower Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "166",
+    "mushroom_id": "166",
+    "name": "Hedgehog Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "167",
+    "mushroom_id": "167",
+    "name": "Ear-pick Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "168",
+    "mushroom_id": "168",
+    "name": "Hairy Stereum",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "169",
+    "mushroom_id": "169",
+    "name": "Silver Leaf Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "170",
+    "mushroom_id": "170",
+    "name": "Dryad’s Saddle",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "171",
+    "mushroom_id": "171",
+    "name": "Fuzzy Polypore",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "172",
+    "mushroom_id": "172",
+    "name": "Tiger's Eye",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "173",
+    "mushroom_id": "173",
+    "name": "White Saddle",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "174",
+    "mushroom_id": "174",
+    "name": "Fluted Black Elfin Saddle",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "175",
+    "mushroom_id": "175",
+    "name": "Turban Fungus",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "176",
+    "mushroom_id": "176",
+    "name": "Common Morel",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  },
+  {
+    "id": "177",
+    "mushroom_id": "177",
+    "name": "Jelly Babies",
+    "veil_type": "?",
+    "veil_color": "[\"?\"]"
+  }
+]

@@ -7,7 +7,13 @@
     "specific_name": "muscaria",
     "book_name": "Amanita muscaria",
     "edibility": "p",
-    "edibility_notes": "Rarely fatal. Hallucinogenic properties."
+    "edibility_notes": "Rarely fatal. Hallucinogenic properties.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Panther Cap",
@@ -17,7 +23,13 @@
     "specific_name": "pantherina",
     "book_name": "Amanita pantherina",
     "edibility": "p",
-    "edibility_notes": "Can be fatal if consumed."
+    "edibility_notes": "Can be fatal if consumed.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "False Panther Cap",
@@ -27,7 +39,13 @@
     "specific_name": "pantherinoides",
     "book_name": "Amanita pantherinoides",
     "edibility": "p",
-    "edibility_notes": "Can be fatal if consumed."
+    "edibility_notes": "Can be fatal if consumed.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "The Blusher",
@@ -37,7 +55,13 @@
     "specific_name": "rubescens",
     "book_name": "Amanita rubescens",
     "edibility": "e",
-    "edibility_notes": "Must be well cooked. Causes anaemia if eaten raw."
+    "edibility_notes": "Must be well cooked. Causes anaemia if eaten raw.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Death Cap",
@@ -47,7 +71,13 @@
     "specific_name": "phalloides",
     "book_name": "Amanita phalloides",
     "edibility": "p",
-    "edibility_notes": "Causes liver and kidney failure."
+    "edibility_notes": "Causes liver and kidney failure.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "False Death Cap",
@@ -57,7 +87,13 @@
     "specific_name": "citrina",
     "book_name": "Amanita citrina",
     "edibility": "e",
-    "edibility_notes": "Not recommended as too easily confused with poisonous species (see opposite)."
+    "edibility_notes": "Not recommended as too easily confused with poisonous species (see opposite).",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Destroying Angel",
@@ -67,7 +103,13 @@
     "specific_name": "bisporigera",
     "book_name": "Amanita virosa",
     "edibility": "p",
-    "edibility_notes": "Symptoms like those from Death Cap."
+    "edibility_notes": "Symptoms like those from Death Cap.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Tawny Grisette",
@@ -77,7 +119,13 @@
     "specific_name": "fulva",
     "book_name": "Amanita fulva",
     "edibility": "e",
-    "edibility_notes": "Must be well cooked. Not recommended."
+    "edibility_notes": "Must be well cooked. Not recommended.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Parasol Mushroom",
@@ -87,7 +135,13 @@
     "specific_name": "procera",
     "book_name": "Macrolepiota procera",
     "edibility": "e",
-    "edibility_notes": "Excellent nutty taste. Discard stem and fry the cap whole, coated in breadcrumbs."
+    "edibility_notes": "Excellent nutty taste. Discard stem and fry the cap whole, coated in breadcrumbs.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"m\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Shaggy Parasol",
@@ -97,7 +151,13 @@
     "specific_name": "rhacodes",
     "book_name": "Macrolepita rhacodes",
     "edibility": "e",
-    "edibility_notes": "A minority suffer from digestive upset and skin rash."
+    "edibility_notes": "A minority suffer from digestive upset and skin rash.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Stinking Parasol",
@@ -107,7 +167,13 @@
     "specific_name": "cristata",
     "book_name": "Lepiota cristata",
     "edibility": "p",
-    "edibility_notes": "Many closely related species are very poisonous so do not eat small ‘Parasols’."
+    "edibility_notes": "Many closely related species are very poisonous so do not eat small ‘Parasols’.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"m\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Saffron Parasol",
@@ -117,7 +183,13 @@
     "specific_name": "amianthinum",
     "book_name": "Cystodetma amianthium",
     "edibility": "i",
-    "edibility_notes": "Not worthwhile."
+    "edibility_notes": "Not worthwhile.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"g\",\"h\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "The Deceiver",
@@ -127,7 +199,13 @@
     "specific_name": "laccata",
     "book_name": "Laccaria laccata",
     "edibility": "e",
-    "edibility_notes": "Lacking in flavour. Discard the tough stems."
+    "edibility_notes": "Lacking in flavour. Discard the tough stems.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"h\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Amethyst Deceiver",
@@ -137,7 +215,13 @@
     "specific_name": "amethystina",
     "book_name": "Laccaria amethystea",
     "edibility": "e",
-    "edibility_notes": "Retains its colour when cooked but lacks flavour."
+    "edibility_notes": "Retains its colour when cooked but lacks flavour.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Wood Blewit",
@@ -147,7 +231,13 @@
     "specific_name": "nuda",
     "book_name": "Lepista nuda",
     "edibility": "e",
-    "edibility_notes": "Must be well cooked. Watery when old."
+    "edibility_notes": "Must be well cooked. Watery when old.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"p\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Field Blewit",
@@ -157,7 +247,13 @@
     "specific_name": "personata",
     "book_name": "Lepista saeva",
     "edibility": "e",
-    "edibility_notes": "Stem and cap have firm flesh and a subtle taste. Dries well."
+    "edibility_notes": "Stem and cap have firm flesh and a subtle taste. Dries well.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Clouded Agaric",
@@ -167,7 +263,13 @@
     "specific_name": "nebularis",
     "book_name": "Clitocybe nebularis",
     "edibility": "e",
-    "edibility_notes": "Can cause digestive upset so best avoided."
+    "edibility_notes": "Can cause digestive upset so best avoided.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"y\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Club-footed Funnel Cap",
@@ -177,7 +279,13 @@
     "specific_name": "clavipes",
     "book_name": "Clitocybe claves",
     "edibility": "i",
-    "edibility_notes": "Not worth eating and causes nausea and hot flushes when consumed with alcohol."
+    "edibility_notes": "Not worth eating and causes nausea and hot flushes when consumed with alcohol.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Common Funnel Cap",
@@ -187,7 +295,13 @@
     "specific_name": "gibba",
     "book_name": "Clitocybe infundibuliformis",
     "edibility": "e",
-    "edibility_notes": "Not worthwhile."
+    "edibility_notes": "Not worthwhile.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"l\",\"d\",\"h\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Aniseed Funnel Cap",
@@ -197,7 +311,13 @@
     "specific_name": "odora",
     "book_name": "Clitocybe odora",
     "edibility": "e",
-    "edibility_notes": "Thin-fleshed. Best dried."
+    "edibility_notes": "Thin-fleshed. Best dried.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Ivory Clitocybe",
@@ -207,7 +327,13 @@
     "specific_name": "dealbata",
     "book_name": "Clitocybe dealbata",
     "edibility": "p",
-    "edibility_notes": "Excessive salivation and sweating shortly after ingestion. Can be fatal."
+    "edibility_notes": "Excessive salivation and sweating shortly after ingestion. Can be fatal.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Wood Woolly-foot",
@@ -217,7 +343,13 @@
     "specific_name": "peronata",
     "book_name": "Collybia peronata",
     "edibility": "i",
-    "edibility_notes": "It has a peppery taste. Sometimes used to add spice to certain dishes."
+    "edibility_notes": "It has a peppery taste. Sometimes used to add spice to certain dishes.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Russet Tough Shank",
@@ -227,7 +359,13 @@
     "specific_name": "dryophilus",
     "book_name": "Collybia dryophila",
     "edibility": "i",
-    "edibility_notes": "Tough. Poisonous if eaten raw."
+    "edibility_notes": "Tough. Poisonous if eaten raw.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Clustered Tough Shank",
@@ -237,7 +375,13 @@
     "specific_name": "confluens",
     "book_name": "Collybia confluens",
     "edibility": "i",
-    "edibility_notes": "Tough and not worth eating."
+    "edibility_notes": "Tough and not worth eating.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Greasy Tough Shank",
@@ -247,7 +391,13 @@
     "specific_name": "butyracea",
     "book_name": "Collybia buryracea",
     "edibility": "e",
-    "edibility_notes": "Not worthwhile."
+    "edibility_notes": "Not worthwhile.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"l\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Spotted Tough Shank",
@@ -257,7 +407,13 @@
     "specific_name": "maculata",
     "book_name": "Collybia maculata",
     "edibility": "i",
-    "edibility_notes": "Very tough with a bitter taste."
+    "edibility_notes": "Very tough with a bitter taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\",\"h\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Fairy Ring Champignon",
@@ -267,7 +423,13 @@
     "specific_name": "oreades",
     "book_name": "Marasmius oreades",
     "edibility": "e",
-    "edibility_notes": "Use dried in soups and stews. Beware confusion with Ivory Clitocybe."
+    "edibility_notes": "Use dried in soups and stews. Beware confusion with Ivory Clitocybe.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Little Wheel Fungus",
@@ -277,7 +439,13 @@
     "specific_name": "rotula",
     "book_name": "Marasmius rotuda",
     "edibility": "i",
-    "edibility_notes": "It is tough and very small."
+    "edibility_notes": "It is tough and very small.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Horse-hair Fungus",
@@ -287,7 +455,13 @@
     "specific_name": "androsaceus",
     "book_name": "Marasmius androsaceus",
     "edibility": "i",
-    "edibility_notes": "Tough and insubstantial."
+    "edibility_notes": "Tough and insubstantial.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Bonnet Bell Cap",
@@ -297,7 +471,13 @@
     "specific_name": "galericulata",
     "book_name": "Mycena galericulata",
     "edibility": "e",
-    "edibility_notes": "Insubstantial and not worth eating."
+    "edibility_notes": "Insubstantial and not worth eating.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Stump Bell Cap",
@@ -307,7 +487,13 @@
     "specific_name": "alcalina",
     "book_name": "Mycena alcalina",
     "edibility": "i",
-    "edibility_notes": "Not worth eating despite its mild taste."
+    "edibility_notes": "Not worth eating despite its mild taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Tufted Bell Cap",
@@ -317,7 +503,13 @@
     "specific_name": "inclinata",
     "book_name": "Mycena inclinata",
     "edibility": "i",
-    "edibility_notes": "Not worth eating despite the mild taste."
+    "edibility_notes": "Not worth eating despite the mild taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Milky Bell Cap",
@@ -327,7 +519,13 @@
     "specific_name": "galopus",
     "book_name": "Mycena galoptus",
     "edibility": "e",
-    "edibility_notes": "Not worth eating"
+    "edibility_notes": "Not worth eating",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Small Bleeding Bell Cap",
@@ -337,7 +535,13 @@
     "specific_name": "sanguinolenta",
     "book_name": "Mycena sanguinolenta",
     "edibility": "e",
-    "edibility_notes": "Not worthwhile."
+    "edibility_notes": "Not worthwhile.",
+    "poisonous": "u",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\",\"h\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Lilac Bell Cap",
@@ -347,7 +551,13 @@
     "specific_name": "pura",
     "book_name": "Mycena pura",
     "edibility": "p",
-    "edibility_notes": "Contains muscarine."
+    "edibility_notes": "Contains muscarine.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Yellow-stemmed Bell Cap",
@@ -357,7 +567,13 @@
     "specific_name": "epipterygia",
     "book_name": "Mycena epipterygia",
     "edibility": "e",
-    "edibility_notes": "Too small to be worth eating."
+    "edibility_notes": "Too small to be worth eating.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\",\"h\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Orange Bell Cap",
@@ -367,7 +583,13 @@
     "specific_name": "acicula",
     "book_name": "Mycena acicula",
     "edibility": "i",
-    "edibility_notes": "Insubstantial."
+    "edibility_notes": "Insubstantial.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Orange Moss Agaric",
@@ -377,7 +599,13 @@
     "specific_name": "fibula",
     "book_name": "Rickenella fibula",
     "edibility": "i",
-    "edibility_notes": "Too small to be worth eating."
+    "edibility_notes": "Too small to be worth eating.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Umbrella Navel Cap",
@@ -387,7 +615,13 @@
     "specific_name": "ericetorum",
     "book_name": "Omphalina ericetorum",
     "edibility": "i",
-    "edibility_notes": "Insubstantial."
+    "edibility_notes": "Insubstantial.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\",\"h\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Rooting Shank",
@@ -397,7 +631,13 @@
     "specific_name": "radicata",
     "book_name": "Oudemansiella radicata",
     "edibility": "e",
-    "edibility_notes": "Not worth eating due to slimy cap."
+    "edibility_notes": "Not worth eating due to slimy cap.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Porcelain Mushroom",
@@ -407,7 +647,13 @@
     "specific_name": "mucida",
     "book_name": "Oudemansiella mucida",
     "edibility": "e",
-    "edibility_notes": "The slime must be removed first."
+    "edibility_notes": "The slime must be removed first.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Velvet Shank",
@@ -417,7 +663,13 @@
     "specific_name": "velutipes",
     "book_name": "Flammulina velutipes",
     "edibility": "e",
-    "edibility_notes": "Remove the slimy layer and tough stem."
+    "edibility_notes": "Remove the slimy layer and tough stem.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Honey Fungus",
@@ -427,7 +679,13 @@
     "specific_name": "mellea",
     "book_name": "Anmillaria mellea",
     "edibility": "e",
-    "edibility_notes": "Not easily digested. Must be well cooked."
+    "edibility_notes": "Not easily digested. Must be well cooked.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Bulbous Honey Fungus",
@@ -437,7 +695,13 @@
     "specific_name": "gallica",
     "book_name": "Armillaria bulbosa",
     "edibility": "e",
-    "edibility_notes": "Not easily digested. Must be well cooked."
+    "edibility_notes": "Not easily digested. Must be well cooked.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Soap-scented Tricholoma",
@@ -447,7 +711,13 @@
     "specific_name": "saponaceum",
     "book_name": "Tricholoma saponaceum",
     "edibility": "i",
-    "edibility_notes": "Bitter taste. May cause digestive upset and easily confused with poisonous species."
+    "edibility_notes": "Bitter taste. May cause digestive upset and easily confused with poisonous species.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Grey Tricholoma",
@@ -457,7 +727,13 @@
     "specific_name": "terreum",
     "book_name": "Tricholoma terreum",
     "edibility": "e",
-    "edibility_notes": "Has a mild taste but other grey Tricholomas are poisonous."
+    "edibility_notes": "Has a mild taste but other grey Tricholomas are poisonous.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Scaly Tricholoma",
@@ -467,7 +743,13 @@
     "specific_name": "vaccinum",
     "book_name": "Tricholoma argyraceum",
     "edibility": "e",
-    "edibility_notes": "A mild taste but not very good eating."
+    "edibility_notes": "A mild taste but not very good eating.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Yellow-brown Tricholoma",
@@ -477,7 +759,13 @@
     "specific_name": "fulvum",
     "book_name": "Tricholoma fulvum",
     "edibility": "e",
-    "edibility_notes": "Poor. Can be confused with other brown species."
+    "edibility_notes": "Poor. Can be confused with other brown species.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Sulphur Tricholoma",
@@ -487,7 +775,13 @@
     "specific_name": "sulphureum",
     "book_name": "Tricholoma sulphureum",
     "edibility": "i",
-    "edibility_notes": "The smell is unpleasant."
+    "edibility_notes": "The smell is unpleasant.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"l\"]",
+    "season": "[\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "St George’s Mushroom",
@@ -497,7 +791,13 @@
     "specific_name": "gambosa",
     "book_name": "Calocybe gambosa",
     "edibility": "e",
-    "edibility_notes": "Good when young, with a firm, dry flesh."
+    "edibility_notes": "Good when young, with a firm, dry flesh.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"m\",\"d\"]",
+    "season": "[\"s\",\"u\"]",
+    "enrichable": "0"
   },
   {
     "name": "Clustered Brown Cap",
@@ -507,7 +807,13 @@
     "specific_name": "decastes",
     "book_name": "Lyophyllum decastes",
     "edibility": "e",
-    "edibility_notes": "Not highly rated. Beware highly poisonous lookalike Livid Entoloma"
+    "edibility_notes": "Not highly rated. Beware highly poisonous lookalike Livid Entoloma",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Changeable Melanoleuca",
@@ -517,7 +823,13 @@
     "specific_name": "melaleuca",
     "book_name": "Melanoleuca melalenca",
     "edibility": "e",
-    "edibility_notes": "Insipid taste so not recommended."
+    "edibility_notes": "Insipid taste so not recommended.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"l\",\"m\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Plums and custard",
@@ -527,7 +839,13 @@
     "specific_name": "rutilans",
     "book_name": "Tricholomopsis rutilans",
     "edibility": "i",
-    "edibility_notes": "Not poisonous but not edible despite its name."
+    "edibility_notes": "Not poisonous but not edible despite its name.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Ivory Wax Cap",
@@ -537,7 +855,13 @@
     "specific_name": "eburneus",
     "book_name": "Hygrocybe nivea",
     "edibility": "e",
-    "edibility_notes": "Beware confusion with poisonous species such as Ivory Clitocybe."
+    "edibility_notes": "Beware confusion with poisonous species such as Ivory Clitocybe.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Yellow Wax cap",
@@ -547,7 +871,13 @@
     "specific_name": "chlorophana",
     "book_name": "Hygrocybe flavescens",
     "edibility": "i",
-    "edibility_notes": "Small and slimy, with an insipid taste."
+    "edibility_notes": "Small and slimy, with an insipid taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Orange-red Wax Cap",
@@ -557,7 +887,13 @@
     "specific_name": "miniata",
     "book_name": "Hygrocybe strangulata",
     "edibility": "i",
-    "edibility_notes": "Not recorded as being worth eating."
+    "edibility_notes": "Not recorded as being worth eating.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"m\",\"h\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Blackening Wax Cap",
@@ -567,7 +903,13 @@
     "specific_name": "nigrescens",
     "book_name": "Hygrocybe nigrescens",
     "edibility": "i",
-    "edibility_notes": "Slightly bitter taste. Edibility suspect."
+    "edibility_notes": "Slightly bitter taste. Edibility suspect.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Meadow Wax Cap",
@@ -577,7 +919,13 @@
     "specific_name": "pratensis",
     "book_name": "Hygrocybe pratensis",
     "edibility": "e",
-    "edibility_notes": "Needs slow cooking. Mild taste."
+    "edibility_notes": "Needs slow cooking. Mild taste.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\",\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Scarlet Hood",
@@ -587,7 +935,13 @@
     "specific_name": "coccinea",
     "book_name": "Hygrocybe coccinea",
     "edibility": "e",
-    "edibility_notes": "Not poisonous despite the orange-red flesh."
+    "edibility_notes": "Not poisonous despite the orange-red flesh.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "Parrot Wax Cap",
@@ -597,7 +951,13 @@
     "specific_name": "psittacinus",
     "book_name": "Hygrocybe psittacina",
     "edibility": "i",
-    "edibility_notes": "Not poisonous but not pleasant to eat."
+    "edibility_notes": "Not poisonous but not pleasant to eat.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Herald of Winter",
@@ -607,7 +967,13 @@
     "specific_name": "hypothejus",
     "book_name": "Hyerophorus hypothejus",
     "edibility": "e",
-    "edibility_notes": "Mild tasting but poor texture."
+    "edibility_notes": "Mild tasting but poor texture.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Common Yellow Russula",
@@ -617,7 +983,13 @@
     "specific_name": "ochroleuca",
     "book_name": "Russula ochroleuca",
     "edibility": "e",
-    "edibility_notes": "Peppery flesh is not to everyone's taste."
+    "edibility_notes": "Peppery flesh is not to everyone's taste.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Yellow-gilled Russula",
@@ -627,7 +999,13 @@
     "specific_name": "risigallina",
     "book_name": "Russula lutea",
     "edibility": "e",
-    "edibility_notes": "Mild tasting but rather insubstantial."
+    "edibility_notes": "Mild tasting but rather insubstantial.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Yellow Swamp Russula",
@@ -637,7 +1015,13 @@
     "specific_name": "claroflava",
     "book_name": "Russula claroflava",
     "edibility": "e",
-    "edibility_notes": "Has a pleasant texture and taste."
+    "edibility_notes": "Has a pleasant texture and taste.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Geranium-scented Russula",
@@ -647,7 +1031,13 @@
     "specific_name": "fellea",
     "book_name": "Russula fellea",
     "edibility": "i",
-    "edibility_notes": "The flesh has a very hot taste."
+    "edibility_notes": "The flesh has a very hot taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Stinking Russula",
@@ -657,7 +1047,13 @@
     "specific_name": "foetens",
     "book_name": "Russula foetans",
     "edibility": "i",
-    "edibility_notes": "Unpleasant smell and peppery cap flesh."
+    "edibility_notes": "Unpleasant smell and peppery cap flesh.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Fragile Russula",
@@ -667,7 +1063,13 @@
     "specific_name": "fragilis",
     "book_name": "Russula fragilis",
     "edibility": "i",
-    "edibility_notes": "Has a very acrid taste."
+    "edibility_notes": "Has a very acrid taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Birch Russula",
@@ -677,7 +1079,13 @@
     "specific_name": "betularum",
     "book_name": "Rusula betularum",
     "edibility": "i",
-    "edibility_notes": "Very acrid taste."
+    "edibility_notes": "Very acrid taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Bare-toothed Russula",
@@ -687,7 +1095,13 @@
     "specific_name": "vesca",
     "book_name": "Russula vesca",
     "edibility": "e",
-    "edibility_notes": "Pleasant nutty taste."
+    "edibility_notes": "Pleasant nutty taste.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "The Charcoal Burner",
@@ -697,7 +1111,13 @@
     "specific_name": "cyanoxantha",
     "book_name": "Russula cyanoxantha",
     "edibility": "e",
-    "edibility_notes": "Mild taste and firm texture."
+    "edibility_notes": "Mild taste and firm texture.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Blackish Purple Russula",
@@ -707,7 +1127,13 @@
     "specific_name": "atropurpurea",
     "book_name": "Russula atropurpurea",
     "edibility": "e",
-    "edibility_notes": "Must be cooked. Mild to slightly peppery."
+    "edibility_notes": "Must be cooked. Mild to slightly peppery.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "1"
   },
   {
     "name": "Blackening Russula",
@@ -717,7 +1143,13 @@
     "specific_name": "adusta",
     "book_name": "Russula nigricans",
     "edibility": "e",
-    "edibility_notes": "Good when young, later tough and full of maggots."
+    "edibility_notes": "Good when young, later tough and full of maggots.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "1"
   },
   {
     "name": "The Sickener",
@@ -727,7 +1159,13 @@
     "specific_name": "emetica",
     "book_name": "Russula emetica",
     "edibility": "p",
-    "edibility_notes": "The acrid flesh causes vomiting."
+    "edibility_notes": "The acrid flesh causes vomiting.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Beechwood Sickener",
@@ -737,7 +1175,13 @@
     "specific_name": "nobilis",
     "book_name": "Russula mairei",
     "edibility": "p",
-    "edibility_notes": "The acrid flesh causes sickness."
+    "edibility_notes": "The acrid flesh causes sickness.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Crab-scented Russula",
@@ -747,7 +1191,13 @@
     "specific_name": "xerampelina",
     "book_name": "Russula xerampelina",
     "edibility": "e",
-    "edibility_notes": "Mild taste despite the crab-like smell."
+    "edibility_notes": "Mild taste despite the crab-like smell.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Grass-green Russula",
@@ -757,7 +1207,13 @@
     "specific_name": "aeruginea",
     "book_name": "Russula aeruginea",
     "edibility": "p",
-    "edibility_notes": "May cause digestive upset."
+    "edibility_notes": "May cause digestive upset.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Peppery Milk Cap",
@@ -767,7 +1223,13 @@
     "specific_name": "piperatus",
     "book_name": "Lactarius piperatus",
     "edibility": "e",
-    "edibility_notes": "Dried specimens have been used as a seasoning but the very acrid taste is not for the faint hearted."
+    "edibility_notes": "Dried specimens have been used as a seasoning but the very acrid taste is not for the faint hearted.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Fleecy Milk Cap",
@@ -777,7 +1239,13 @@
     "specific_name": "vellereus",
     "book_name": "Lactarius vellereus",
     "edibility": "i",
-    "edibility_notes": "Acrid taste when young, poor texture."
+    "edibility_notes": "Acrid taste when young, poor texture.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Oak Milk Cap",
@@ -787,7 +1255,13 @@
     "specific_name": "quietus",
     "book_name": "Lactarius quiets",
     "edibility": "i",
-    "edibility_notes": "Slight bitter taste, unpleasant smell."
+    "edibility_notes": "Slight bitter taste, unpleasant smell.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Slimy Milk Cap",
@@ -797,7 +1271,13 @@
     "specific_name": "blennius",
     "book_name": "Lactarius bennius",
     "edibility": "i",
-    "edibility_notes": "Slimy cap surface and very acrid taste."
+    "edibility_notes": "Slimy cap surface and very acrid taste.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Ugly Milk Cap",
@@ -807,7 +1287,13 @@
     "specific_name": "turpis",
     "book_name": "Lactarius turpis",
     "edibility": "i",
-    "edibility_notes": "Not recommended due to its bitter taste."
+    "edibility_notes": "Not recommended due to its bitter taste.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Rufous Milk Cap",
@@ -817,7 +1303,13 @@
     "specific_name": "rufus",
     "book_name": "Lactarius rufus",
     "edibility": "i",
-    "edibility_notes": "The initially mild tasting milk becomes very acrid after about a minute."
+    "edibility_notes": "The initially mild tasting milk becomes very acrid after about a minute.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Sweet Milk Cap",
@@ -827,7 +1319,13 @@
     "specific_name": "subdulcis",
     "book_name": "Lactarius subdulcis",
     "edibility": "i",
-    "edibility_notes": "The milk initially tastes sweet but has a very bitter aftertaste."
+    "edibility_notes": "The milk initially tastes sweet but has a very bitter aftertaste.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Small Brown Milk Cap",
@@ -837,7 +1335,13 @@
     "specific_name": "tabidus",
     "book_name": "Lactarius tabidus",
     "edibility": "i",
-    "edibility_notes": "Insubstantial with a slightly acrid taste."
+    "edibility_notes": "Insubstantial with a slightly acrid taste.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Coconut-scented Milk Cap",
@@ -847,7 +1351,13 @@
     "specific_name": "glyciosmus",
     "book_name": "Lactarius glyciosmus",
     "edibility": "e",
-    "edibility_notes": "Used for flavouring but has a fairly hot taste."
+    "edibility_notes": "Used for flavouring but has a fairly hot taste.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Woolly Milk Cap",
@@ -857,7 +1367,13 @@
     "specific_name": "torminosus",
     "book_name": "Lactarius torminosus",
     "edibility": "p",
-    "edibility_notes": "Parboiled it is eatable but not edible."
+    "edibility_notes": "Parboiled it is eatable but not edible.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Saffron Milk Cap",
@@ -867,7 +1383,13 @@
     "specific_name": "deliciosus",
     "book_name": "Lactarius deliciosus",
     "edibility": "e",
-    "edibility_notes": "Best blanched before being fried."
+    "edibility_notes": "Best blanched before being fried.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Spruce Milk Cap",
@@ -877,7 +1399,13 @@
     "specific_name": "deterrimus",
     "book_name": "Lactarius deterrimus",
     "edibility": "i",
-    "edibility_notes": "Cooking reduces the bitterness. Not recommended."
+    "edibility_notes": "Cooking reduces the bitterness. Not recommended.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Fawn Pluteus",
@@ -887,7 +1415,13 @@
     "specific_name": "cervinus",
     "book_name": "Pluteus cervinus",
     "edibility": "e",
-    "edibility_notes": "Not highly rated due to its sharp taste."
+    "edibility_notes": "Not highly rated due to its sharp taste.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"p\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Veined Pluteus",
@@ -897,7 +1431,13 @@
     "specific_name": "thomsonii",
     "book_name": "Pluteus umbrosus",
     "edibility": "e",
-    "edibility_notes": "Soft-fleshed and not highly recommended."
+    "edibility_notes": "Soft-fleshed and not highly recommended.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Silky Nolanea",
@@ -907,7 +1447,13 @@
     "specific_name": "sericeum",
     "book_name": "Nolanea sericea",
     "edibility": "i",
-    "edibility_notes": "Confusable with poisonous pink-spored species."
+    "edibility_notes": "Confusable with poisonous pink-spored species.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"p\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Striated Nolanea",
@@ -917,7 +1463,13 @@
     "specific_name": "conferendum",
     "book_name": "Nolanea staurospora",
     "edibility": "i",
-    "edibility_notes": "Too easily confused with poisonous species."
+    "edibility_notes": "Too easily confused with poisonous species.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "White Leptonia",
@@ -927,7 +1479,13 @@
     "specific_name": "sericellum",
     "book_name": "Leptonia sericella",
     "edibility": "i",
-    "edibility_notes": "Beware confusion with highly poisonous fungi."
+    "edibility_notes": "Beware confusion with highly poisonous fungi.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Crow Pinkgill",
@@ -937,7 +1495,13 @@
     "specific_name": "corvinum",
     "book_name": "Leptonia corvina",
     "edibility": "p",
-    "edibility_notes": "Some blue Leptonias are poisonous, so avoid."
+    "edibility_notes": "Some blue Leptonias are poisonous, so avoid.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"p\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Livid Entoloma",
@@ -947,7 +1511,13 @@
     "specific_name": "sinuatum",
     "book_name": "Entoloma lividum",
     "edibility": "p",
-    "edibility_notes": "Causes gastric upset and liver damage."
+    "edibility_notes": "Causes gastric upset and liver damage.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "The Miller",
@@ -957,7 +1527,13 @@
     "specific_name": "prunulus",
     "book_name": "Clitopilus prunulus",
     "edibility": "e",
-    "edibility_notes": "xcellent. the firm flesh tastes of meal. Beware confusion with poisonous Ivory Clitocybe"
+    "edibility_notes": "xcellent. the firm flesh tastes of meal. Beware confusion with poisonous Ivory Clitocybe",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Apricot Fungus",
@@ -967,7 +1543,13 @@
     "specific_name": "palmatus",
     "book_name": "Rhodotus palmatus",
     "edibility": "i",
-    "edibility_notes": "The flesh has a very bitter taste."
+    "edibility_notes": "The flesh has a very bitter taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Egg Yolk Fungus",
@@ -977,7 +1559,13 @@
     "specific_name": "titubans",
     "book_name": "Bolbitius vitellinus",
     "edibility": "i",
-    "edibility_notes": "Insubstantial and with a slimy texture."
+    "edibility_notes": "Insubstantial and with a slimy texture.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Brown Bell Cap",
@@ -987,7 +1575,13 @@
     "specific_name": "marginata",
     "book_name": "Conocybe tenera",
     "edibility": "i",
-    "edibility_notes": "Insubstantial"
+    "edibility_notes": "Insubstantial",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\",\"d\"]",
+    "season": "[\"s\",\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Spring Agaric",
@@ -997,7 +1591,13 @@
     "specific_name": "bitorquis",
     "book_name": "Agrocybe praecox",
     "edibility": "e",
-    "edibility_notes": "Must be well cooked; not recommended."
+    "edibility_notes": "Must be well cooked; not recommended.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"s\",\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Shaggy Pholiota",
@@ -1007,7 +1607,13 @@
     "specific_name": "squarrosa",
     "book_name": "Pholiota squarrosa",
     "edibility": "i",
-    "edibility_notes": "The bitter flesh is difficult to digest."
+    "edibility_notes": "The bitter flesh is difficult to digest.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Charcoal Pholiota",
@@ -1017,7 +1623,13 @@
     "specific_name": "carbonaria",
     "book_name": "Photiota highlandensi",
     "edibility": "i",
-    "edibility_notes": "Insubstansial"
+    "edibility_notes": "Insubstansial",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Brown Stew Fungus",
@@ -1027,7 +1639,13 @@
     "specific_name": "mutabilis",
     "book_name": "Kuehneromyces mutabilis",
     "edibility": "e",
-    "edibility_notes": "The caps add flavour and colour to stews."
+    "edibility_notes": "The caps add flavour and colour to stews.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Sulphur Tuft",
@@ -1037,7 +1655,13 @@
     "specific_name": "fasciculare",
     "book_name": "Hypholoma fasiculare",
     "edibility": "p",
-    "edibility_notes": "Very bitter with a taste like quinine."
+    "edibility_notes": "Very bitter with a taste like quinine.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"k\",\"r\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Brick Caps",
@@ -1047,7 +1671,13 @@
     "specific_name": "lateritium",
     "book_name": "Hypholoma sublateritium",
     "edibility": "i",
-    "edibility_notes": "Less bitter than Sulphur Tuft but not edible."
+    "edibility_notes": "Less bitter than Sulphur Tuft but not edible.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Verdigris Toadstool",
@@ -1057,7 +1687,13 @@
     "specific_name": "aeruginosa",
     "book_name": "Stropharia aeruginosa",
     "edibility": "p",
-    "edibility_notes": "Fortunately the colour is offputting."
+    "edibility_notes": "Fortunately the colour is offputting.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"k\",\"u\"]",
+    "habitat": "[\"g\",\"m\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Dung Roundhead",
@@ -1067,7 +1703,13 @@
     "specific_name": "semiglobata",
     "book_name": "Stropharia semiglobata",
     "edibility": "i",
-    "edibility_notes": "Insubstantial and slimy-textured."
+    "edibility_notes": "Insubstantial and slimy-textured.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"m\"]",
+    "season": "[\"s\",\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Magic Mushroom",
@@ -1077,7 +1719,13 @@
     "specific_name": "semilanceata",
     "book_name": "Psilocybe semilanceata",
     "edibility": "p",
-    "edibility_notes": "Affects sensory perception. Unpleasant taste."
+    "edibility_notes": "Affects sensory perception. Unpleasant taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Red-banded Cortinarius",
@@ -1087,7 +1735,13 @@
     "specific_name": "armillatus",
     "book_name": "Cortinarius armillatus",
     "edibility": "i",
-    "edibility_notes": "Some species are very poisonous."
+    "edibility_notes": "Some species are very poisonous.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\",\"h\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Purple Cortinarius",
@@ -1097,7 +1751,13 @@
     "specific_name": "purpurascens",
     "book_name": "Cortinarius purpurascens",
     "edibility": "i",
-    "edibility_notes": "Reported to produce digestive upset, so avoid."
+    "edibility_notes": "Reported to produce digestive upset, so avoid.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Blood-red Cortinarius",
@@ -1107,7 +1767,13 @@
     "specific_name": "sanguineus",
     "book_name": "Cortinarius sanguineus",
     "edibility": "p",
-    "edibility_notes": "Confusable with the very poisonous C. orellanus."
+    "edibility_notes": "Confusable with the very poisonous C. orellanus.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"n\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Red-staining Inocybe",
@@ -1117,7 +1783,13 @@
     "specific_name": "erubescens",
     "book_name": "Inocybe patouillardii",
     "edibility": "p",
-    "edibility_notes": "Causes death by heart failure or asphyxiation."
+    "edibility_notes": "Causes death by heart failure or asphyxiation.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"s\",\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Straw-coloured Inocybe",
@@ -1127,7 +1799,13 @@
     "specific_name": "rimosa",
     "book_name": "Inocybe fastigiata",
     "edibility": "p",
-    "edibility_notes": "Dangerous due to its muscarine content."
+    "edibility_notes": "Dangerous due to its muscarine content.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Common White Inocybe",
@@ -1137,7 +1815,13 @@
     "specific_name": "geophylla",
     "book_name": "Inocybe geophylla",
     "edibility": "p",
-    "edibility_notes": "Dangerous as it is easily confused with edibles."
+    "edibility_notes": "Dangerous as it is easily confused with edibles.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"p\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Poison Pie",
@@ -1147,7 +1831,13 @@
     "specific_name": "crustuliniforme",
     "book_name": "Hebeloma crustuliniforme",
     "edibility": "p",
-    "edibility_notes": "Very bitter, causing gastric upset."
+    "edibility_notes": "Very bitter, causing gastric upset.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Dark-centred Hebeloma",
@@ -1157,7 +1847,13 @@
     "specific_name": "mesophaeum",
     "book_name": "Hebeloma mesophacuom",
     "edibility": "i",
-    "edibility_notes": "Avoid as related species are poisonous."
+    "edibility_notes": "Avoid as related species are poisonous.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Rusty Wood Rotter",
@@ -1167,7 +1863,13 @@
     "specific_name": "sapineus",
     "book_name": "Gymnopilus penetrans",
     "edibility": "i",
-    "edibility_notes": "Tough and with bitter-tasting flesh."
+    "edibility_notes": "Tough and with bitter-tasting flesh.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Spectacular Gymnopile",
@@ -1177,7 +1879,13 @@
     "specific_name": "junonius",
     "book_name": "Gymnopilus junonius",
     "edibility": "i",
-    "edibility_notes": "Bitter. Wrongly recorded as hallucinogenic."
+    "edibility_notes": "Bitter. Wrongly recorded as hallucinogenic.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"n\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Moss Pixy Cap",
@@ -1187,7 +1895,13 @@
     "specific_name": "hypnorum",
     "book_name": "Galerina vittiformis",
     "edibility": "i",
-    "edibility_notes": "Too small to be worth eating."
+    "edibility_notes": "Too small to be worth eating.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"h\",\"d\"]",
+    "season": "[\"s\",\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Field Mushroom",
@@ -1197,7 +1911,13 @@
     "specific_name": "campestris",
     "book_name": "Agaricus campestris",
     "edibility": "e",
-    "edibility_notes": "Excellent. Can be eaten raw but see below."
+    "edibility_notes": "Excellent. Can be eaten raw but see below.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"m\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Cultivated Mushroom",
@@ -1207,7 +1927,13 @@
     "specific_name": "bisporus",
     "book_name": "Agaricus bisporus",
     "edibility": "e",
-    "edibility_notes": "Can be eaten raw. Older ones have more flavour."
+    "edibility_notes": "Can be eaten raw. Older ones have more flavour.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"w\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Horse Mushroom",
@@ -1217,7 +1943,13 @@
     "specific_name": "arvensis",
     "book_name": "Agaricus arvensis",
     "edibility": "e",
-    "edibility_notes": "Excellent flavour and texture but often mistaken for Yellow-staining Mushroom."
+    "edibility_notes": "Excellent flavour and texture but often mistaken for Yellow-staining Mushroom.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"m\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Yellow-staining Mushroom",
@@ -1227,7 +1959,13 @@
     "specific_name": "xanthodermus",
     "book_name": "Agaricus xanthodermus",
     "edibility": "p",
-    "edibility_notes": "Many are unaffected but best avoided."
+    "edibility_notes": "Many are unaffected but best avoided.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Bleeding Brown Mushroom",
@@ -1237,7 +1975,13 @@
     "specific_name": "haemorrhoidarius",
     "book_name": "Agaricus haemorrhoidarius",
     "edibility": "e",
-    "edibility_notes": "Good to eat despite the ‘bleeding flesh’."
+    "edibility_notes": "Good to eat despite the ‘bleeding flesh’.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Shaggy Ink Cap",
@@ -1247,7 +1991,13 @@
     "specific_name": "comatus",
     "book_name": "Coprinus comatus",
     "edibility": "e",
-    "edibility_notes": "Must be eaten young. Good salty flavour."
+    "edibility_notes": "Must be eaten young. Good salty flavour.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"u\",\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Common Ink Cap",
@@ -1257,7 +2007,13 @@
     "specific_name": "atramentaria",
     "book_name": "Coprinus atramentarius",
     "edibility": "p",
-    "edibility_notes": "It reacts with alcohol in the bloodstream causing nausea and hot flushes."
+    "edibility_notes": "It reacts with alcohol in the bloodstream causing nausea and hot flushes.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Magpie Ink Cap",
@@ -1267,7 +2023,13 @@
     "specific_name": "picacea",
     "book_name": "Coprinus picaceus",
     "edibility": "i",
-    "edibility_notes": "Unpleasant smell. Possibly poisonous."
+    "edibility_notes": "Unpleasant smell. Possibly poisonous.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Rusty Carpet Ink Cap",
@@ -1277,7 +2039,13 @@
     "specific_name": "domesticus",
     "book_name": "Coprinus domesticus",
     "edibility": "i",
-    "edibility_notes": "Not worth eating."
+    "edibility_notes": "Not worth eating.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Glistening Ink Cap",
@@ -1287,7 +2055,13 @@
     "specific_name": "micaceus",
     "book_name": "Coprinus micaceus",
     "edibility": "e",
-    "edibility_notes": "Hardly worthwhile, poor flavour and texture."
+    "edibility_notes": "Hardly worthwhile, poor flavour and texture.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Fairies’ Bonnets",
@@ -1297,7 +2071,13 @@
     "specific_name": "disseminatus",
     "book_name": "Coprinus disseminatus",
     "edibility": "e",
-    "edibility_notes": "Too insubstantial to be worthwhile."
+    "edibility_notes": "Too insubstantial to be worthwhile.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Fairy Parasol",
@@ -1307,7 +2087,13 @@
     "specific_name": "plicatilis",
     "book_name": "Coprinus plicatilis",
     "edibility": "e",
-    "edibility_notes": "Far too insubstantial to be worth collecting."
+    "edibility_notes": "Far too insubstantial to be worth collecting.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Common Crumble Cap",
@@ -1317,7 +2103,13 @@
     "specific_name": "candolleanus",
     "book_name": "Psathyrella candolleana",
     "edibility": "e",
-    "edibility_notes": "Said to be edible if cooked but not worthwhile."
+    "edibility_notes": "Said to be edible if cooked but not worthwhile.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Two-toned Crumble Cap",
@@ -1327,7 +2119,13 @@
     "specific_name": "piluliformis",
     "book_name": "Psathyrella hydrophila",
     "edibility": "e",
-    "edibility_notes": "Not recommended due to bitter taste."
+    "edibility_notes": "Not recommended due to bitter taste.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"k\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Hay Cap",
@@ -1337,7 +2135,13 @@
     "specific_name": "foenisecii",
     "book_name": "Panaeolus foenisecii",
     "edibility": "p",
-    "edibility_notes": "May produce hallucinations."
+    "edibility_notes": "May produce hallucinations.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"k\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Petticoat Fungus",
@@ -1347,7 +2151,13 @@
     "specific_name": "papilionaceus",
     "book_name": "Panaeolus sphinctrinus",
     "edibility": "p",
-    "edibility_notes": "May produce hallucinations."
+    "edibility_notes": "May produce hallucinations.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"k\"]",
+    "habitat": "[\"g\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Egg-shell Toadstool",
@@ -1357,7 +2167,13 @@
     "specific_name": "semiovatus",
     "book_name": "Panaeolus semiovatus",
     "edibility": "i",
-    "edibility_notes": "|ts dung habitat makes it unsuitable for eating."
+    "edibility_notes": "|ts dung habitat makes it unsuitable for eating.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"k\"]",
+    "habitat": "[\"?\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Weeping Widow",
@@ -1367,7 +2183,13 @@
     "specific_name": "lacrymabunda",
     "book_name": "Lacrymaria velutina",
     "edibility": "p",
-    "edibility_notes": "Firm-fleshed if a little bitter."
+    "edibility_notes": "Firm-fleshed if a little bitter.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"k\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Cep",
@@ -1377,7 +2199,13 @@
     "specific_name": "edulis",
     "book_name": "Boletus edulis",
     "edibility": "e",
-    "edibility_notes": "Young ones can be pickled. Old ones dry well."
+    "edibility_notes": "Young ones can be pickled. Old ones dry well.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Bay Bolete",
@@ -1387,7 +2215,13 @@
     "specific_name": "badia",
     "book_name": "Boletus badius",
     "edibility": "e",
-    "edibility_notes": "Excellent and firm-fleshed when young. Pleasant mushroomy taste. Rarely maggot-infested. Dries well."
+    "edibility_notes": "Excellent and firm-fleshed when young. Pleasant mushroomy taste. Rarely maggot-infested. Dries well.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Red-cracked Bolete",
@@ -1397,7 +2231,13 @@
     "specific_name": "chrysenteron",
     "book_name": "Boletus chrysenteron",
     "edibility": "e",
-    "edibility_notes": "Not recommended due to its soggy texture."
+    "edibility_notes": "Not recommended due to its soggy texture.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Yellow-cracked Bolete",
@@ -1407,7 +2247,13 @@
     "specific_name": "subtomentosus",
     "book_name": "Boletus subzomentosus",
     "edibility": "e",
-    "edibility_notes": "Not recommended due to its poor flavour and a soggy texture."
+    "edibility_notes": "Not recommended due to its poor flavour and a soggy texture.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Dotted-stemmed Bolete",
@@ -1417,7 +2263,13 @@
     "specific_name": "luridiformis",
     "book_name": "Boletus erythropus",
     "edibility": "p",
-    "edibility_notes": "Causes stomach upset especially when raw."
+    "edibility_notes": "Causes stomach upset especially when raw.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Lurid Bolete",
@@ -1427,7 +2279,13 @@
     "specific_name": "luridus",
     "book_name": "Boletus luridus",
     "edibility": "p",
-    "edibility_notes": "Causes digestive upset and produces unpleasant symptoms with alcohol."
+    "edibility_notes": "Causes digestive upset and produces unpleasant symptoms with alcohol.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"?\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Parasitic Bolete",
@@ -1437,7 +2295,13 @@
     "specific_name": "parasiticus",
     "book_name": "Boletus parasiticus",
     "edibility": "e",
-    "edibility_notes": "Not recommended as it is quite rare."
+    "edibility_notes": "Not recommended as it is quite rare.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Bitter Bolete",
@@ -1447,7 +2311,13 @@
     "specific_name": "felleus",
     "book_name": "Tylopilus felleus",
     "edibility": "i",
-    "edibility_notes": "Extremely bitter taste."
+    "edibility_notes": "Extremely bitter taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"p\",\"w\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Peppery Bolete",
@@ -1457,7 +2327,13 @@
     "specific_name": "piperatus",
     "book_name": "Chalciporus piperatus",
     "edibility": "e",
-    "edibility_notes": "Used to add flavour but is very peppery."
+    "edibility_notes": "Used to add flavour but is very peppery.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Orange Birch Bolete",
@@ -1467,7 +2343,13 @@
     "specific_name": "versipelle",
     "book_name": "Leceinum versipelle",
     "edibility": "e",
-    "edibility_notes": "Caps make good eating; discard the stems."
+    "edibility_notes": "Caps make good eating; discard the stems.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Brown Birch Bolete",
@@ -1477,7 +2359,13 @@
     "specific_name": "scabrum",
     "book_name": "Leccinum scabrum",
     "edibility": "e",
-    "edibility_notes": "Soggy. Only young caps are worth eating."
+    "edibility_notes": "Soggy. Only young caps are worth eating.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Larch Bolete",
@@ -1487,7 +2375,13 @@
     "specific_name": "grevillei",
     "book_name": "Suillus grevillei",
     "edibility": "e",
-    "edibility_notes": "Remove slimy cap skin. Best in soups."
+    "edibility_notes": "Remove slimy cap skin. Best in soups.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Slippery Jack",
@@ -1497,7 +2391,13 @@
     "specific_name": "luteus",
     "book_name": "Suillus luteus",
     "edibility": "e",
-    "edibility_notes": "Remove slimy skin. Lacks flavour."
+    "edibility_notes": "Remove slimy skin. Lacks flavour.",
+    "poisonous": "e",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Bovine Bolete",
@@ -1507,7 +2407,13 @@
     "specific_name": "bovinus",
     "book_name": "Suillus bovinus",
     "edibility": "e",
-    "edibility_notes": "Poor flavour and rubbery texture."
+    "edibility_notes": "Poor flavour and rubbery texture.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"h\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Brown Roll-rim",
@@ -1517,7 +2423,13 @@
     "specific_name": "involutus",
     "book_name": "Paxillus involutus",
     "edibility": "p",
-    "edibility_notes": "Causes sickness and more serious illness."
+    "edibility_notes": "Causes sickness and more serious illness.",
+    "poisonous": "p",
+    "has_bruises": "1",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"h\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Velvet Roll-rim",
@@ -1527,7 +2439,13 @@
     "specific_name": "atrotomentosa",
     "book_name": "Paxillus atromentosus",
     "edibility": "p",
-    "edibility_notes": "Bitter and similar to Brown Roll-rim."
+    "edibility_notes": "Bitter and similar to Brown Roll-rim.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "False Chanterelle",
@@ -1537,7 +2455,13 @@
     "specific_name": "aurantiaca",
     "book_name": "Hygrophoropsis aurantiaca",
     "edibility": "p",
-    "edibility_notes": "A minority suffer from sickness and hallucinations"
+    "edibility_notes": "A minority suffer from sickness and hallucinations",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"h\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Chanterelle",
@@ -1547,7 +2471,13 @@
     "specific_name": "cibarius",
     "book_name": "Canthaellus cibarus",
     "edibility": "e",
-    "edibility_notes": "Mildly peppery taste goes well with egg dishes. Can be eaten raw. Small ones pickle well."
+    "edibility_notes": "Mildly peppery taste goes well with egg dishes. Can be eaten raw. Small ones pickle well.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Tubed Chanterelle",
@@ -1557,7 +2487,13 @@
     "specific_name": "tubaeformis",
     "book_name": "Cantharells tubaeformis",
     "edibility": "e",
-    "edibility_notes": "A poorer version of Chanterelle."
+    "edibility_notes": "A poorer version of Chanterelle.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Horn of Plenty",
@@ -1567,7 +2503,13 @@
     "specific_name": "cornucopioides",
     "book_name": "Craterellus cornucopoides",
     "edibility": "e",
-    "edibility_notes": "A favourite in restaurants where it is served stuffed, but it is leathery and best used dried to add a rich flavour to soups and stews."
+    "edibility_notes": "A favourite in restaurants where it is served stuffed, but it is leathery and best used dried to add a rich flavour to soups and stews.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"g\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Oyster Mushroom",
@@ -1577,7 +2519,13 @@
     "specific_name": "ostreatus",
     "book_name": "Pleurotus ostreatus",
     "edibility": "e",
-    "edibility_notes": "Good flavour and firm-fleshed. Cut out stem area."
+    "edibility_notes": "Good flavour and firm-fleshed. Cut out stem area.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Branched Oyster Mushroom",
@@ -1587,7 +2535,13 @@
     "specific_name": "cornucopiae",
     "book_name": "Pleurotus cornucopiae",
     "edibility": "e",
-    "edibility_notes": "Tougher and less tasty than Oyster Mushroom."
+    "edibility_notes": "Tougher and less tasty than Oyster Mushroom.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Olive Oysterling",
@@ -1597,7 +2551,13 @@
     "specific_name": "serotina",
     "book_name": "Paneltus serotinus",
     "edibility": "i",
-    "edibility_notes": "Slimy cap may cause digestive upset."
+    "edibility_notes": "Slimy cap may cause digestive upset.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Soft Slipper Toadstool",
@@ -1607,7 +2567,13 @@
     "specific_name": "mollis",
     "book_name": "Crepidonus mollis",
     "edibility": "i",
-    "edibility_notes": "Insubstantial and slimy textured."
+    "edibility_notes": "Insubstantial and slimy textured.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"n\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Orange Clubs",
@@ -1617,7 +2583,13 @@
     "specific_name": "helveola",
     "book_name": "Clavulinopsis helvola",
     "edibility": "i",
-    "edibility_notes": "Insubstantial with a bitter taste."
+    "edibility_notes": "Insubstantial with a bitter taste.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"g\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Crested Coral Fungus",
@@ -1627,7 +2599,13 @@
     "specific_name": "cristata",
     "book_name": "Clavulina cristata",
     "edibility": "e",
-    "edibility_notes": "Not recommended as often infected with mould."
+    "edibility_notes": "Not recommended as often infected with mould.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Grey Coral Fungus",
@@ -1637,7 +2615,13 @@
     "specific_name": "cinerea",
     "book_name": "Clava cinerea",
     "edibility": "e",
-    "edibility_notes": "Insubstantial and not recommended."
+    "edibility_notes": "Insubstantial and not recommended.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Cauliflower Fungus",
@@ -1647,7 +2631,13 @@
     "specific_name": "crispa",
     "book_name": "Sparassis crispa",
     "edibility": "e",
-    "edibility_notes": "Young, well-washed specimens have a marvellous taste and texture. Must not be eaten when old."
+    "edibility_notes": "Young, well-washed specimens have a marvellous taste and texture. Must not be eaten when old.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Hedgehog Fungus",
@@ -1657,7 +2647,13 @@
     "specific_name": "repandum",
     "book_name": "Hydnum repandum",
     "edibility": "e",
-    "edibility_notes": "Slightly bitter when raw but excellent after cooking, with a firm texture."
+    "edibility_notes": "Slightly bitter when raw but excellent after cooking, with a firm texture.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Ear-pick Fungus",
@@ -1667,7 +2663,13 @@
     "specific_name": "vulgare",
     "book_name": "Auriscalpium vulgare",
     "edibility": "i",
-    "edibility_notes": "Insubstantial and tough."
+    "edibility_notes": "Insubstantial and tough.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Hairy Stereum",
@@ -1677,7 +2679,13 @@
     "specific_name": "hirsutum",
     "book_name": "Stereum hirsutum",
     "edibility": "i",
-    "edibility_notes": "Tough and leathery"
+    "edibility_notes": "Tough and leathery",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Silver Leaf Fungus",
@@ -1687,7 +2695,13 @@
     "specific_name": "purpureum",
     "book_name": "Chondrostereum purpureum",
     "edibility": "i",
-    "edibility_notes": "Very tough."
+    "edibility_notes": "Very tough.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\",\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Dryad’s Saddle",
@@ -1697,7 +2711,13 @@
     "specific_name": "squamosus",
     "book_name": "Polyporus squamosus",
     "edibility": "e",
-    "edibility_notes": "Edges of young caps are the most tender."
+    "edibility_notes": "Edges of young caps are the most tender.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\"]",
+    "enrichable": "0"
   },
   {
     "name": "Fuzzy Polypore",
@@ -1707,7 +2727,13 @@
     "specific_name": "schweinitzii",
     "book_name": "Phaeolus schweinitzii",
     "edibility": "i",
-    "edibility_notes": "Often encrusts old pine needles."
+    "edibility_notes": "Often encrusts old pine needles.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"a\",\"w\"]",
+    "enrichable": "0"
   },
   {
     "name": "Tiger's Eye",
@@ -1717,7 +2743,13 @@
     "specific_name": "perennis",
     "book_name": "Coltricia perennis",
     "edibility": "i",
-    "edibility_notes": "However, it is used in floral decorations."
+    "edibility_notes": "However, it is used in floral decorations.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\"]",
+    "enrichable": "0"
   },
   {
     "name": "White Saddle",
@@ -1727,7 +2759,13 @@
     "specific_name": "crispa",
     "book_name": "Halvella crispa",
     "edibility": "p",
-    "edibility_notes": "Can cause gastric upset, especially if eaten raw."
+    "edibility_notes": "Can cause gastric upset, especially if eaten raw.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"p\",\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Fluted Black Elfin Saddle",
@@ -1737,7 +2775,13 @@
     "specific_name": "lacunosa",
     "book_name": "Helvella lacunosa",
     "edibility": "p",
-    "edibility_notes": "Can cause gastric upset so best avoided."
+    "edibility_notes": "Can cause gastric upset so best avoided.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   },
   {
     "name": "Turban Fungus",
@@ -1747,7 +2791,13 @@
     "specific_name": "esculenta",
     "book_name": "Gyromitra esculenta",
     "edibility": "p",
-    "edibility_notes": "Can be fatal and even when consumed after careful preparation. Is suspected of causing cancer."
+    "edibility_notes": "Can be fatal and even when consumed after careful preparation. Is suspected of causing cancer.",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"s\",\"u\"]",
+    "enrichable": "0"
   },
   {
     "name": "Common Morel",
@@ -1757,7 +2807,13 @@
     "specific_name": "esculenta",
     "book_name": "Morchella esculenta",
     "edibility": "e",
-    "edibility_notes": "Wonderful flavour and texture. Dries well."
+    "edibility_notes": "Wonderful flavour and texture. Dries well.",
+    "poisonous": "e",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"l\",\"d\"]",
+    "season": "[\"s\"]",
+    "enrichable": "0"
   },
   {
     "name": "Jelly Babies",
@@ -1767,6 +2823,12 @@
     "specific_name": "lubrica",
     "book_name": "Leotia lubrica",
     "edibility": "i",
-    "edibility_notes": "Insubstantial"
+    "edibility_notes": "Insubstantial",
+    "poisonous": "p",
+    "has_bruises": "0",
+    "spore_print": "[\"?\"]",
+    "habitat": "[\"d\"]",
+    "season": "[\"u\",\"a\"]",
+    "enrichable": "0"
   }
 ]

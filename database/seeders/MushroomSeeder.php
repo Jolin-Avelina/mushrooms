@@ -10,7 +10,8 @@ class MushroomSeeder extends Seeder
     public function run()
     {
         // Path to your JSON file
-        $jsonFile = base_path('database/data/mushrooms.json');
+        Mushroom::truncate();
+        $jsonFile = base_path('database/data/mushroom3.json');
 
         // Read and decode the JSON file
         $mushrooms = json_decode(File::get($jsonFile), true);
